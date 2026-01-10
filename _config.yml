@@ -11,7 +11,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   
-baseurl: /~keene
+baseurl: ""
 
 
 
