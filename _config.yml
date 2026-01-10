@@ -12,7 +12,7 @@ gems:
   - jekyll-feed
   
 baseurl: ""
-
+url: "https://samkeene.github.io"
 
 
 sass:
