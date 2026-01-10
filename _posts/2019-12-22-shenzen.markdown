@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Shenzen Biennial"
+date:   2019-12-22 03:32:51 -0500
+categories: jekyll update
+thumbnail: "/~keene/images/shenzen/img1.png"
+
+---
+The Shenzen Biennial of Urbanism/Architecture opened on Dec 22, 2019, and an exhibit I worked on in conjunction with [Ben Aranda](http://arandalasch.com/) and a group of Cooper Union students was an intergral part of the Biennial.
+
+This exhibit was focused on facial recognition, and presenting the notion that this ubiquitous technology, while seemingly unavoidable, only operates due to our consent. Moreover, our exhibit allows a participant to challenge this technology, and simulates methods to 'attack' a network and regain their anonymity.
+
+In our piece, a user must first register with the system, explictly granting their consent to be labeled and recognized. We then allow the user to experiment with face paint, sequins and stickers in order to simulate what is known as an adversarial attack. An adversarial attack, in theory, tricks a facial recognition system into not recognizing someone. The goal of this exhibit was to make people aware that we particpate in these systems by choice, and methods exist to opt out, should we choose to use them.
+
+A few images of the prototype we built on campus at The Cooper Union are below, and for some press coverage of the Binenial, have a look [here.](https://worldarchitecture.org/architecture-news/eefpp/the-world-s-most-visited-architecture-biennale-opens-in-shenzhen.html)
+
+<link rel="stylesheet" href="/~keene/assets/css/colorbox.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
+
+
+
+<center>
+    <div class="photoset-grid-lightbox" data-layout="212" id="box3">
+        <img src="/~keene/images/shenzen/img1.png">
+        <img src="/~keene/images/shenzen/img2.png">
+        <img src="/~keene/images/shenzen/img3.png">
+        <img src="/~keene/images/shenzen/img4.png">
+        <img src="/~keene/images/shenzen/img5.png">
+    </div>
+</center>
+
+
+
+
+
+<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+
+
+<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+
+<script src="/~keene/assets/js/jquery.colorbox.js"></script>
+
+<script type="text/javascript">
+$('.photoset-grid-lightbox').photosetGrid({
+  highresLinks: true,
+  rel: 'withhearts-gallery',
+  gutter: '5px',
+
+  onComplete: function(){
+    $('.photoset-grid-lightbox').attr('style', '');
+    $('.photoset-grid-lightbox a').colorbox({
+      photo: true,
+      scalePhotos: true,
+      maxHeight:'100%',
+      maxWidth:'100%'
+    });
+  }
+});
+</script>
+

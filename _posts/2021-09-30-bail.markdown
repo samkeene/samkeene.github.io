@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Understanding the Bailable Population in Mississippi"
+date:   2021-09-30 03:32:51 -0500
+categories: jekyll update
+thumbnail: "/~keene/images/mississippi.png"
+---
+Recently, one of my graduate students defended her Master's thesis, an examination of the bailable population in Mississippi. This work was done in collaboration with [The Bail Project](https://bailproject.org/), a non profit who's mission is to combat mass incarceration and restore presumption of innocence, reunite families, and challenge a system that criminalizes race and poverty. 
+
+Nithi scraped websites from numerous jails in Mississippi and performed a detailed analysis. You can see the Python code and the data visualizations [here](https://colab.research.google.com/drive/17ct1CD5rD0jXKMz8aC_BIm9TuJcJK6Sk?usp=sharing).
+
+We are planning to continue the collaboration with The Bail Project in the spring semester of 2022 as part of the Data Science Projects for Social Good course.

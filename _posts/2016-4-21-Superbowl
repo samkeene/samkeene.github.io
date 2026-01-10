@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Exploring causal effects of ad campaigns during the Superbowl"
+date:   2017-4-21 03:32:51 -0500
+categories: jekyll update
+---
+
+
+
+
+
+
+One of my graduate students, Neema Aggarawal, focused her graduate thesis on an important area of research, causal inference. Neema right now is working as a consultant for the Boston Consulting Group, so we wanted to find her a thesis topic that was relevant to buisness work, but also an electrical engineering topic. Causal inference, with its roots in machine learning, was a perfect fit. 
+
+Neema's thesis is also great example of the ingenuity of Cooper Union students. Business applications of causal inference typically focus on trying to determine whether or not a marketing campaign has an effect on sales of a product. The problem we had - no data to experiment with, as companies in general are not going to share that data. We needed two things - the obvious start of a marketing campaign, and some response variable to collect from publcally available sources to serve as a surrogate for sales data. 
+
+The Super Bowl presented us with an opportunity, as many organizations launch marketing campaigns during this time, and it is somewhat public knowledge which ones will do so. This gave us multiple campaigns to study simultaneously. The final piece was to select data as a response variable. Instead of sales figures, we instead chose to study what we called "Digital Buzz", which we defined as the number of Google searches and Twitter mentions for the product in question. So, now we had numerous, simultaneous campaigns to study, a response variable, and some clear questions to ask:
+    
+    Which companies marketing campaigns caused a substantial increase in digital buzz?
+    How long does this digital buzz last?
+    
+
+There was only one small problem - Google and Twitters APIs did not allow collection of data too far in the past, meaning the data had to be collected live, starting during SuperBowl LI. Complicating matters, Neema is a Patriots fan. As her team mounted a heroic comeback from the largest deficit in SuperBowl history, Neema mounted her own heroic data collection effort, running her scripts and collecting all the data she needed for her thesis.
+
+
+ The study of causal inference is essentially just asking the question, "Did this event cause a particular observation?" It is a difficult question to answer, but it has a wide range of applications. 
+
+
+
+
+
+just defended her thesis, [Inferring the causal impact of Super Bowl marketing campaigns using a Bayesian structural time series model
+]({{ site.url }}/~keene/assets/Neema_Thesis_vFinal.pdf).
+
+
+
+
+
+
+![Stairs]({{ site.url }}/~keene/images/stairs.jpg)
+
+![Clock]({{ site.url }}/~keene/images/clock.jpg)
+
+![Clock2]({{ site.url }}/~keene/images/clock2.jpg)
+
+![Lincoln]({{ site.url }}/~keene/images/lincoln.jpg)
+
+![Deal]({{ site.url }}/~keene/images/deal.jpg)
+
+![Elevator]({{ site.url }}/~keene/images/elevator.jpg)
+

@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Workshop on Generative Machine Learning for Architecture and Art, Spring 2023"
+date:   2023-04-22 03:32:51 -0500
+categories: jekyll update
+thumbnail: "/~keene/images/mlArch23/genMLFlyer.png"
+---
+
+Along with my colleague Ben Aranda, we hosted our inaugural Workshop on Generative Art, Architecture & Engineering Collaboration. Leading practitioners in the field of generative art, design and machine learning presented their work and engaged in a discussion led by students. This workshop was an extension a multi-year effort to explore generative algorithms and Machine Learning at Cooper Union through a series of interdisciplinary seminars and studios, where students from the art, architecture and engineering schools work together. 
+
+Our panelists included:
+    
+Adam Berninger, Founder, Tender
+
+Neta Bomani, Artist, Learner, Educator
+
+Andrew Kudless, Professor University of Houston, Founder Matsys
+
+Zach Lieberman, Artist, Professor MIT Media Lab
+
+Ingrid Burrington, Writer, Artist
+
+Marcelo Coelho, Head of Design at Formlabs, MIT Department of Architecture
+
+R. Luke DuBois, Artist, Associate Professor of Integrated Design & Media, NYU
+
+Kameelah Janan Rasheed, Artist, Learner
+
+As part of this workshop, we also exhibited the work from our Generative Machine Learning for Architecture and Art course. Some of the work is shown below.
+
+
+## **Emotions**
+
+
+The user sits inside a mirrored chamber, where an AI detects their emotion. These cues are fed to a generative algorithm which creates images illuminating the chamber.
+
+![](/~keene/images/mlArch23/emotion.jpeg)
+
+Team: Sue Zhou, Nicole Joseph, Anne He
+
+
+## **Replacement** 
+
+This piece classifies the users age, gender, race, and emotion. It then replaces the users face with a generated version of themselves as the AI sees them. It can be deeply unsettling to see yourself replaced, particularly when the biases of AI are revealed in the process.
+
+![](/~keene/images/mlArch23/faceSwap.jpeg)
+![](/~keene/images/mlArch23/faceSwapInAction.jpeg)
+
+
+
+Team: Aiden Shankman, Garret Ingman, Samuel Finley
+
+## **Stable Blocks**
+
+This project allowed users to play with simple kindergarten blocks, take pictures, and ask them to be realized into architectural buildings 
+
+![](/~keene/images/mlArch23/stableBlocks.png)
+
+
+## **Cellular Automata** 
+
+This video uses 3-dimensional cellular automata and generative images to envision the growth and decay of buildings:
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DibqRo6cXrA?si=KnHPP6R6LIXch-mW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Team: Daniel Matallana, Leslie-Fairuz Abad-Neagu, Gavri Kepets
+

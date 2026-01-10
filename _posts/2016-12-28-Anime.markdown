@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Building a recommendation system for Anime"
+date:   2016-12-28 13:32:51 -0500
+categories: jekyll update
+---
+Are you bored on your break and want to find some new anime to watch? Why not try out Xiangling Kong and Venkat Kuruturi's [final project for statistical learning](http://anime.kongio.com:5000/)
+The data scraped for this rec system is uploaded to Kaggle in case you want to [build your own:](https://www.kaggle.com/xthun…/anime-recommendations-database)

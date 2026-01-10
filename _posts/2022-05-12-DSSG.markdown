@@ -1,0 +1,90 @@
+---
+layout: post
+title:  "Data Science for Social Good, Spring 2022"
+date:   2022-05-12 03:32:51 -0500
+categories: jekyll update
+thumbnail: "/~keene/images/datasci2022/20220513_154047.jpg"
+---
+We opended our annual data science for social good exhibition today, in person again after a year off. Once again we partnered with several non profits and performed data visualization and analysis. Have a look below for descriptions of the projects and some pictures of the installation.
+
+[The Bail Project](https://bailproject.org/) is a national nonprofit organization that pays bail for people in need, reuniting families and restoring the presumption of innocence. In collaboration, we are developing a suite of web-scraping tools to collect data from several county jails in Mississippi. We performed a data analysis and visualization on the resulting data. Additionally we’ve installed an interactive exhibit which will highlight the inequities of bail amounts with a focus on race, age and gender.
+
+<link rel="stylesheet" href="/~keene/assets/css/colorbox.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
+
+
+
+<center>
+    <div class="photoset-grid-lightbox" data-layout="22" id="box1">
+        <img src="/~keene/images/datasci2022/20220513_153634.jpg">
+        <img src="/~keene/images/datasci2022/20220513_153624.jpg">
+        <img src="/~keene/images/datasci2022/20220513_153620.jpg">
+        <img src="/~keene/images/datasci2022/20220513_153450.jpg">
+    </div>
+</center>
+
+
+
+
+
+[Hudson Link](https://hudsonlink.org/) provides college education, life skills, and reentry support to incarcerated and formerly incarcerated people to help them make a positive impact. They have provided us with a database with information about all of their program participants, as well as an alumni survey. They have asked us to formulate a definition of success for their participants, and perform data analysis and visualization to help understand what factors contribute to this. Additionally, there is an interactive sculpture to illustrate the pathways participants in the program take towards finding stability in their lives.
+
+<center>
+    <div class="photoset-grid-lightbox" data-layout="21" id="box2">
+        <img src="/~keene/images/datasci2022/20220513_153424.jpg">
+        <img src="/~keene/images/datasci2022/20220513_153417.jpg">
+        <img src="/~keene/images/datasci2022/20220513_153444.jpg">
+    </div>
+</center>
+
+[Grameen America](https://www.grameenamerica.org/) is dedicated to helping entrepreneurial women who live in poverty build businesses to enable financial mobility. Participants in their programs must attend regular group meetings in order to be eligible for micro-loans to support their businesses. Upon leaving the program, participants are asked to complete an exit survey, which Grameen America has shared with us. The results include a natural language processing based analysis of the free text, infographics, and a large data visualization sculpture.
+
+
+<center>
+    <div class="photoset-grid-lightbox" data-layout="1" id="box2">
+        <img src="/~keene/images/datasci2022/20220513_153411.jpg">
+    </div>
+</center>
+
+[Leap Fund](https://myleapfund.com/) is creating products that empower optimism, financial and career growth, future planning, and security for working families that need it most. One of their products is a coaching program which is deployed at community organizations across the country to help make people aware of the so-called ‘benefits cliff’, which can occur when an increase in income results in a significant decrease in government benefits. Leap Fund has shared with us survey results related to the coaching program, and has asked us to perform analysis and visualization to help improve this program. In addition to this analysis, we have installed an interactive exhibit that aims to raise awareness of the “benefits cliff” problem.
+
+
+<center>
+    <div class="photoset-grid-lightbox" data-layout="1" id="box2">
+        <img src="/~keene/images/datasci2022/20220513_154036.jpg">
+    </div>
+</center>
+
+[National Kidney Foundation](https://www.kidney.org/), is dedicated to preventing kidney disease, improving the health and well-being of individuals and families affected by kidney disease and increasing the availability of kidneys for transplantation. NKF is interested in improving their outreach to the Latino community. In particular, they have an interest in developing a coherent message highlighting the risk of kidney disease in this population, without making an explicit comparison to the white population. We have conducted a search of all publicly available datasets to determine appropriate statistics we can reference to help develop this message. Additionally, we will develop infographics, pamphlets and other material aimed at the Latino community to increase their awareness of kidney disease. Finally, a virtual reality installation has been designed to illustrate the importance of healthy eating habits in the prevention of kidney disease.
+
+
+
+
+
+<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+
+
+<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+
+<script src="/~keene/assets/js/jquery.colorbox.js"></script>
+
+<script type="text/javascript">
+$('.photoset-grid-lightbox').photosetGrid({
+  highresLinks: true,
+  rel: 'withhearts-gallery',
+  gutter: '5px',
+
+  onComplete: function(){
+    $('.photoset-grid-lightbox').attr('style', '');
+    $('.photoset-grid-lightbox a').colorbox({
+      photo: true,
+      scalePhotos: true,
+      maxHeight:'100%',
+      maxWidth:'100%'
+    });
+  }
+});
+</script>
+
+

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Autoencoding Neural Networks as Musical Audio Synthesizers"
+date:   2018-9-4 03:32:51 -0500
+categories: jekyll update
+---
+My Master's student, Joseph Colonel, recently presented a paper [Autoencoding Neural Networks as Musical Audio Synthesizers]({{ site.url }}/~keene/assets/dafx2018_submission42_revised_jcolonel.pdf), at the Digital Audio Effects conference in Averio, Portugal. The purpose of this project is to try to unlock the potential of deep neural networks and create a new type of audio synthesizer.
+
+Traditional synthesizers work by building waveforms from a set of base waveforms and envelope shapes. For example you can simply sum a few sine-waves and change the attack and decay of the tone. [Wikipedia](https://en.wikipedia.org/wiki/Synthesizer#Components) has a much better description of how these traditional synthesizers work. These simple methods are what gave us the wonderful 80s synth pop sounds we know and love. 
+
+Traditional synthesizers are limited in the set of basis functions and other components that they can make use of, as they have to be pre-defined by the designer of the synthesizer. They are generally restricted to fairly simple waveforms. We wanted an alternative approach, one enabled by recent developments in neural networks. Our method works by using a particular type of neural network architecture called an [autoencoder](https://en.wikipedia.org/wiki/Autoencoder) to learn an entirely new set of bases from a training set of audio examples. Once these bases are learned, we can then manipulate them just like a traditional synthesizer.
+
+We hope that this technique is a step forward in allowing musicians and sound designers to develop a new pallete of audio tones.
+
+For some example sounds, have a listen [here](https://soundcloud.com/ann_synth/synthprov)
+
+Over the course of this year, we will be developing a hardware interface to this so that it can be played using a MIDI keyboard, potentially giving birth to a new wave of synthesizer pop. 

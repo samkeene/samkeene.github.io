@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Data Science Projects for Social Good"
+date:   2020-5-20 03:32:51 -0500
+categories: jekyll update
+---
+
+We wrapped up our Data Science and Design Projects for Social Good recently. COVID-19 naturally made for a significant disruption of the semester, but nonetheless there are some really exciting projects that came out of the course. While we weren't able to have our usual exhibition, we were able to put up websites highligthing some of the work.
+
+This [website](http://www.summons.nyc/) examines criminal summons issued in New York City over the past few years. The students involved were Anna Burholt Art  ‘20, Ariana Freitag EE ’20, Sophie Schneider MechE ’20, Joseph Bentivegna,  EE ’19, ME 21 and Wllem Smith-Clark, Arch ’21.
+
+This [website](https://grameen-america.herokuapp.com/index.html) is an analysis of some data provided by [Grameen America](https://www.grameenamerica.org/) A non-profit dedicated to providing micro-loans to underpriveleged woman entreprenuers. The students invovled were Nithi Subbaian EE '20, ME '21, Nick Triano MechE '20, Olivia Park MechE '20, Harry Wei MechE '20 and Diego Herrera Art '21
+
