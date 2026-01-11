@@ -1,0 +1,158 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]-->
+   
+<head>
+    <meta charset="utf-8">
+<title>Ongoing work on deep autoencoders for audio synthesis, effects, and mixing &#8211; Keenes Blog</title>
+<meta name="description" content="A blog for all things Keene">
+<meta name="keywords" content="">
+
+<!-- MathJax -->
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+
+
+
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Ongoing work on deep autoencoders for audio synthesis, effects, and mixing">
+<meta property="og:description" content="A blog for all things Keene">
+<meta property="og:url" content="/jekyll/update/2020-10-20/genAudio.html">
+<meta property="og:site_name" content="Keenes Blog">
+
+
+
+
+
+<link rel="canonical" href="/jekyll/update/2020-10-20/genAudio.html">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Keenes Blog Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<!-- Webfonts -->
+<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic" rel="stylesheet" type="text/css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+
+
+
+    <!-- HEADER IMAGE -->
+    <center>
+        <span class="main-header-image">
+            <a href="/"><img src="/images/header/41coop.jpg"></a>
+        </span>
+    </center>
+
+    <!-- NAVIGATION -->
+    <br><br>
+    <center>
+        <span class="navigation-bar">
+            <a href="/">HOME</a>
+            <a href="/archives/">ARCHIVE</a>
+         <!--   <a href="/tags/">TAGS</a> -->
+            <a href="/about.html">ABOUT</a>
+          <p>   <a href="/dssg.html">Data Science For Social Good</a>  <!p>
+          <p>   <a href="/brew.html">Cooper Brewing</a>  <!p>
+ 
+          <!--  <a href="/feed.xml">RSS</a> -->
+        </span>
+    </center> 
+</head>
+
+<!-- BODY -->
+<body id="post-index">
+    <!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
+    
+    <div id="main" role="main">
+        <article class="hentry">
+            
+            <!-- MAIN -->
+            <h1 class="entry-title">
+                <a>Ongoing work on deep autoencoders for audio synthesis, effects, and mixing</a>
+            </h1>
+              
+            <!-- POST CONTENT -->
+            <div class="entry-content">
+              <!--  <p>I’ve been continuting my collaboration with a former masters student, <a href="https://www.josephtcolonel.com/">JT Colonel</a>, who has now moved on to Ph.D work. We have been advancing some of our work on using deep neural network based autoencoders and their applications towards audio synthesis, effects, and mixing.</p>
+
+<p>In July, we presented a paper at IJCNN 2020, <a href="https://arxiv.org/pdf/2001.11296">Conditioning Autoencoder Latent Spaces for Real-Time Timbre and Synthesis</a>. In this paper, we discuss autoencoder topologies and examine the use of one-hot encoding schemes. We show that with the proper topology and coding scheme, we can improve the performance of the autoencoder (in terms of spectral convergance), while also obtaining better interpolation properties in the latent space. The improved interpolation properties in the latent space will ultimately allow these tools to be more intuitive should any artists or musicans wish to incorporate them in their work.</p>
+
+<p>In October 2020, we presented an extension of this work, where we are able to use the latent space representation to develop a novel mixing technique in real time. The paper, Low Latency Timbre Interpolation and Warping using Autoencoding Neural Networks, is available <a href="http://ee.cooper.edu/assets/timbre.pdf">here</a>. See the image below for a sketch of the architecture of the system.</p>
+
+<p><img src="/images/mixer.png" alt="" /></p>
+
+<p>We are continuing to develop this work, and we hope to develop a VST plugin soon, that will enable musicians to easily access these algorithms through many digital audio workstations. In the meantime, if you want to play around with this material on your own, check out JT’s <a href="https://github.com/JTColonel/">github</a></p>
+ -->
+              <p>I’ve been continuting my collaboration with a former masters student, <a href="https://www.josephtcolonel.com/">JT Colonel</a>, who has now moved on to Ph.D work. We have been advancing some of our work on using deep neural network based autoencoders and their applications towards audio synthesis, effects, and mixing.</p>
+
+<p>In July, we presented a paper at IJCNN 2020, <a href="https://arxiv.org/pdf/2001.11296">Conditioning Autoencoder Latent Spaces for Real-Time Timbre and Synthesis</a>. In this paper, we discuss autoencoder topologies and examine the use of one-hot encoding schemes. We show that with the proper topology and coding scheme, we can improve the performance of the autoencoder (in terms of spectral convergance), while also obtaining better interpolation properties in the latent space. The improved interpolation properties in the latent space will ultimately allow these tools to be more intuitive should any artists or musicans wish to incorporate them in their work.</p>
+
+<p>In October 2020, we presented an extension of this work, where we are able to use the latent space representation to develop a novel mixing technique in real time. The paper, Low Latency Timbre Interpolation and Warping using Autoencoding Neural Networks, is available <a href="http://ee.cooper.edu/assets/timbre.pdf">here</a>. See the image below for a sketch of the architecture of the system.</p>
+
+<p><img src="/images/mixer.png" alt="" /></p>
+
+<p>We are continuing to develop this work, and we hope to develop a VST plugin soon, that will enable musicians to easily access these algorithms through many digital audio workstations. In the meantime, if you want to play around with this material on your own, check out JT’s <a href="https://github.com/JTColonel/">github</a></p>
+
+            </div>  
+
+            <!--- DIVIDING LINE -->
+            <hr>
+    
+            <!-- POST TAGS -->
+            <div class="inline-tags">
+                <span>
+                    
+                </span>
+            </div>
+          
+            <br>
+            
+            <!-- POST DATE -->
+            <div class="post-date">
+                
+            </div>
+        </article>
+    </div>
+    
+       <!-- GOOGLE ANALYTICS -->
+      
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120519966-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-120519966-1');
+</script>
+     
+
+</body>
+    
+<!-- FOOTER -->  
+<footer>  
+    <div class="footer-wrapper">
+        <footer role="contentinfo">
+            <span>
+    &copy; 2026 Keene.<br>Powered by <a target="_blank" href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a target="_blank" href="https://github.com/nathanrooy/Clean-and-Simple-Jekyll-Theme">Clean+Simple</a> theme.
+</span>
+
+        </footer>
+    </div>   
+</footer>  
+</html>

@@ -1,0 +1,158 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]-->
+   
+<head>
+    <meta charset="utf-8">
+<title>A step towards a cohort retrieval system for EEG records &#8211; Keenes Blog</title>
+<meta name="description" content="A blog for all things Keene">
+<meta name="keywords" content="">
+
+<!-- MathJax -->
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+
+
+
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="A step towards a cohort retrieval system for EEG records">
+<meta property="og:description" content="A blog for all things Keene">
+<meta property="og:url" content="/jekyll/update/2017-12-02/EEGCluster.html">
+<meta property="og:site_name" content="Keenes Blog">
+
+
+
+
+
+<link rel="canonical" href="/jekyll/update/2017-12-02/EEGCluster.html">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Keenes Blog Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<!-- Webfonts -->
+<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic" rel="stylesheet" type="text/css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+
+
+
+    <!-- HEADER IMAGE -->
+    <center>
+        <span class="main-header-image">
+            <a href="/"><img src="/images/header/41coop.jpg"></a>
+        </span>
+    </center>
+
+    <!-- NAVIGATION -->
+    <br><br>
+    <center>
+        <span class="navigation-bar">
+            <a href="/">HOME</a>
+            <a href="/archives/">ARCHIVE</a>
+         <!--   <a href="/tags/">TAGS</a> -->
+            <a href="/about.html">ABOUT</a>
+          <p>   <a href="/dssg.html">Data Science For Social Good</a>  <!p>
+          <p>   <a href="/brew.html">Cooper Brewing</a>  <!p>
+ 
+          <!--  <a href="/feed.xml">RSS</a> -->
+        </span>
+    </center> 
+</head>
+
+<!-- BODY -->
+<body id="post-index">
+    <!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
+    
+    <div id="main" role="main">
+        <article class="hentry">
+            
+            <!-- MAIN -->
+            <h1 class="entry-title">
+                <a>A step towards a cohort retrieval system for EEG records</a>
+            </h1>
+              
+            <!-- POST CONTENT -->
+            <div class="entry-content">
+              <!--  <p>When performing cohort retrieval, the goal is to find patients who have EEGs that are similar to other patients EEGs. If such a system existed, it would enable a clinician or researcher to quickly look up patients who have EEGs similar to  each other. This could then assist them in diagnosing and treating seizures or other conditions, for example. A cohort retrieval system is a little bit different than a traditional classification method. The goal is not to classify a particular EEG, but to find other patients(i.e. the cohort), who are similar to the one in question.</p>
+
+<p>My Master’s Krishna Thiyagarajan student recently presented a paper we authored at the IEEE Signal Processing in Medicine and Biology Symposium. The paper was on the application of triplet loss metric to EEG signals. Our goal was to see if we could learn an embedding of EEG signals such that clustering could be performed in the embedding space.</p>
+
+<p>We used the <a href="https://www.isip.piconepress.com/projects/tuh_eeg/">TUH EEG corpus</a> as our dataset for this. This database contains over 30,000 EEGs and its ultimate goal is to help develop tools for the interpretation of EEGs. Our approach was to use the labeled EEGs and apply the triplet loss function to see if an embedding could be learned. If we can sucessfully learn an embedding using the labeled EEG signals, this embedding could be used in the future on un-labeled EEGs as part of a cohort retrieval system.</p>
+
+<p>We found that our method was able to learn a meaningful representation of EEGs signals in a reduced dimensional latent space, and therefore could potentially be used as part of cohort retrieval system, as a simple Euclidean(or other) distance metric could be used between patients for a rapid lookup.</p>
+
+<p>For more details, please have a look at the paper, <a href="http://localhost:4000/assets/EEG_Clustering.pdf">A Learned Embedding Space for EEG Signal Clustering</a>.</p>
+ -->
+              <p>When performing cohort retrieval, the goal is to find patients who have EEGs that are similar to other patients EEGs. If such a system existed, it would enable a clinician or researcher to quickly look up patients who have EEGs similar to  each other. This could then assist them in diagnosing and treating seizures or other conditions, for example. A cohort retrieval system is a little bit different than a traditional classification method. The goal is not to classify a particular EEG, but to find other patients(i.e. the cohort), who are similar to the one in question.</p>
+
+<p>My Master’s Krishna Thiyagarajan student recently presented a paper we authored at the IEEE Signal Processing in Medicine and Biology Symposium. The paper was on the application of triplet loss metric to EEG signals. Our goal was to see if we could learn an embedding of EEG signals such that clustering could be performed in the embedding space.</p>
+
+<p>We used the <a href="https://www.isip.piconepress.com/projects/tuh_eeg/">TUH EEG corpus</a> as our dataset for this. This database contains over 30,000 EEGs and its ultimate goal is to help develop tools for the interpretation of EEGs. Our approach was to use the labeled EEGs and apply the triplet loss function to see if an embedding could be learned. If we can sucessfully learn an embedding using the labeled EEG signals, this embedding could be used in the future on un-labeled EEGs as part of a cohort retrieval system.</p>
+
+<p>We found that our method was able to learn a meaningful representation of EEGs signals in a reduced dimensional latent space, and therefore could potentially be used as part of cohort retrieval system, as a simple Euclidean(or other) distance metric could be used between patients for a rapid lookup.</p>
+
+<p>For more details, please have a look at the paper, <a href="http://localhost:4000/assets/EEG_Clustering.pdf">A Learned Embedding Space for EEG Signal Clustering</a>.</p>
+
+            </div>  
+
+            <!--- DIVIDING LINE -->
+            <hr>
+    
+            <!-- POST TAGS -->
+            <div class="inline-tags">
+                <span>
+                    
+                </span>
+            </div>
+          
+            <br>
+            
+            <!-- POST DATE -->
+            <div class="post-date">
+                
+            </div>
+        </article>
+    </div>
+    
+       <!-- GOOGLE ANALYTICS -->
+      
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120519966-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-120519966-1');
+</script>
+     
+
+</body>
+    
+<!-- FOOTER -->  
+<footer>  
+    <div class="footer-wrapper">
+        <footer role="contentinfo">
+            <span>
+    &copy; 2026 Keene.<br>Powered by <a target="_blank" href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a target="_blank" href="https://github.com/nathanrooy/Clean-and-Simple-Jekyll-Theme">Clean+Simple</a> theme.
+</span>
+
+        </footer>
+    </div>   
+</footer>  
+</html>

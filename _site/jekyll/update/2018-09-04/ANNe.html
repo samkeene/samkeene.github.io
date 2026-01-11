@@ -1,0 +1,162 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]-->
+   
+<head>
+    <meta charset="utf-8">
+<title>Autoencoding Neural Networks as Musical Audio Synthesizers &#8211; Keenes Blog</title>
+<meta name="description" content="A blog for all things Keene">
+<meta name="keywords" content="">
+
+<!-- MathJax -->
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+
+
+
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Autoencoding Neural Networks as Musical Audio Synthesizers">
+<meta property="og:description" content="A blog for all things Keene">
+<meta property="og:url" content="/jekyll/update/2018-09-04/ANNe.html">
+<meta property="og:site_name" content="Keenes Blog">
+
+
+
+
+
+<link rel="canonical" href="/jekyll/update/2018-09-04/ANNe.html">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Keenes Blog Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<!-- Webfonts -->
+<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic" rel="stylesheet" type="text/css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+
+
+
+    <!-- HEADER IMAGE -->
+    <center>
+        <span class="main-header-image">
+            <a href="/"><img src="/images/header/41coop.jpg"></a>
+        </span>
+    </center>
+
+    <!-- NAVIGATION -->
+    <br><br>
+    <center>
+        <span class="navigation-bar">
+            <a href="/">HOME</a>
+            <a href="/archives/">ARCHIVE</a>
+         <!--   <a href="/tags/">TAGS</a> -->
+            <a href="/about.html">ABOUT</a>
+          <p>   <a href="/dssg.html">Data Science For Social Good</a>  <!p>
+          <p>   <a href="/brew.html">Cooper Brewing</a>  <!p>
+ 
+          <!--  <a href="/feed.xml">RSS</a> -->
+        </span>
+    </center> 
+</head>
+
+<!-- BODY -->
+<body id="post-index">
+    <!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
+    
+    <div id="main" role="main">
+        <article class="hentry">
+            
+            <!-- MAIN -->
+            <h1 class="entry-title">
+                <a>Autoencoding Neural Networks as Musical Audio Synthesizers</a>
+            </h1>
+              
+            <!-- POST CONTENT -->
+            <div class="entry-content">
+              <!--  <p>My Master’s student, Joseph Colonel, recently presented a paper <a href="http://localhost:4000/assets/dafx2018_submission42_revised_jcolonel.pdf">Autoencoding Neural Networks as Musical Audio Synthesizers</a>, at the Digital Audio Effects conference in Averio, Portugal. The purpose of this project is to try to unlock the potential of deep neural networks and create a new type of audio synthesizer.</p>
+
+<p>Traditional synthesizers work by building waveforms from a set of base waveforms and envelope shapes. For example you can simply sum a few sine-waves and change the attack and decay of the tone. <a href="https://en.wikipedia.org/wiki/Synthesizer#Components">Wikipedia</a> has a much better description of how these traditional synthesizers work. These simple methods are what gave us the wonderful 80s synth pop sounds we know and love.</p>
+
+<p>Traditional synthesizers are limited in the set of basis functions and other components that they can make use of, as they have to be pre-defined by the designer of the synthesizer. They are generally restricted to fairly simple waveforms. We wanted an alternative approach, one enabled by recent developments in neural networks. Our method works by using a particular type of neural network architecture called an <a href="https://en.wikipedia.org/wiki/Autoencoder">autoencoder</a> to learn an entirely new set of bases from a training set of audio examples. Once these bases are learned, we can then manipulate them just like a traditional synthesizer.</p>
+
+<p>We hope that this technique is a step forward in allowing musicians and sound designers to develop a new pallete of audio tones.</p>
+
+<p>For some example sounds, have a listen <a href="https://soundcloud.com/ann_synth/synthprov">here</a></p>
+
+<p>Over the course of this year, we will be developing a hardware interface to this so that it can be played using a MIDI keyboard, potentially giving birth to a new wave of synthesizer pop.</p>
+ -->
+              <p>My Master’s student, Joseph Colonel, recently presented a paper <a href="http://localhost:4000/assets/dafx2018_submission42_revised_jcolonel.pdf">Autoencoding Neural Networks as Musical Audio Synthesizers</a>, at the Digital Audio Effects conference in Averio, Portugal. The purpose of this project is to try to unlock the potential of deep neural networks and create a new type of audio synthesizer.</p>
+
+<p>Traditional synthesizers work by building waveforms from a set of base waveforms and envelope shapes. For example you can simply sum a few sine-waves and change the attack and decay of the tone. <a href="https://en.wikipedia.org/wiki/Synthesizer#Components">Wikipedia</a> has a much better description of how these traditional synthesizers work. These simple methods are what gave us the wonderful 80s synth pop sounds we know and love.</p>
+
+<p>Traditional synthesizers are limited in the set of basis functions and other components that they can make use of, as they have to be pre-defined by the designer of the synthesizer. They are generally restricted to fairly simple waveforms. We wanted an alternative approach, one enabled by recent developments in neural networks. Our method works by using a particular type of neural network architecture called an <a href="https://en.wikipedia.org/wiki/Autoencoder">autoencoder</a> to learn an entirely new set of bases from a training set of audio examples. Once these bases are learned, we can then manipulate them just like a traditional synthesizer.</p>
+
+<p>We hope that this technique is a step forward in allowing musicians and sound designers to develop a new pallete of audio tones.</p>
+
+<p>For some example sounds, have a listen <a href="https://soundcloud.com/ann_synth/synthprov">here</a></p>
+
+<p>Over the course of this year, we will be developing a hardware interface to this so that it can be played using a MIDI keyboard, potentially giving birth to a new wave of synthesizer pop.</p>
+
+            </div>  
+
+            <!--- DIVIDING LINE -->
+            <hr>
+    
+            <!-- POST TAGS -->
+            <div class="inline-tags">
+                <span>
+                    
+                </span>
+            </div>
+          
+            <br>
+            
+            <!-- POST DATE -->
+            <div class="post-date">
+                
+            </div>
+        </article>
+    </div>
+    
+       <!-- GOOGLE ANALYTICS -->
+      
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120519966-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-120519966-1');
+</script>
+     
+
+</body>
+    
+<!-- FOOTER -->  
+<footer>  
+    <div class="footer-wrapper">
+        <footer role="contentinfo">
+            <span>
+    &copy; 2026 Keene.<br>Powered by <a target="_blank" href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a target="_blank" href="https://github.com/nathanrooy/Clean-and-Simple-Jekyll-Theme">Clean+Simple</a> theme.
+</span>
+
+        </footer>
+    </div>   
+</footer>  
+</html>
