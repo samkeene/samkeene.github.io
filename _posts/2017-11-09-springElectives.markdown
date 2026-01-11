@@ -9,11 +9,11 @@ Since the schedule is up now, I guess I can say that I''m excited to be offering
 
 Machine learning and art, to be co-taught with an amazing artist and adjunct professor, Ingrid Burrington:
     
-[Machine Learing and Art syllabus]({{ site.url }}/~keene/assets/mlArt.pdf)
+[Machine Learing and Art syllabus]({{ site.url }}/assets/mlArt.pdf)
 
 Data Science Projects for Social Good, to be co-taught with an equally amazing architect, adjunct professor, and Cooper alum Will Shapiro:
 
-[Data Science Projects for Social Good syllabus]({{ site.url }}/~keene/assets/dssg.pdf)
+[Data Science Projects for Social Good syllabus]({{ site.url }}/assets/dssg.pdf)
 
  
  Spring semester is going to be something.

@@ -39,4 +39,4 @@ Artworks inspired by data such as sculptures, silk screen, audio and video
 
 Code base for all analyses, visualization, dashboards
 
-For more detailed examples, please refer to the [spring 2023](http://ee.cooper.edu/~keene/jekyll/update/2023-05-15/DSSG.html), [spring 2022](https://ee.cooper.edu/~keene/jekyll/update/2022-05-12/DSSG.html), [spring 2019 offering](http://ee.cooper.edu/~keene/jekyll/update/2019-05-28/dssg.html) or the [spring 2018 offering](http://ee.cooper.edu/~keene/dssg.html)
+For more detailed examples, please refer to the [spring 2023](http://ee.cooper.edu/jekyll/update/2023-05-15/DSSG.html), [spring 2022](https://ee.cooper.edu/jekyll/update/2022-05-12/DSSG.html), [spring 2019 offering](http://ee.cooper.edu/jekyll/update/2019-05-28/dssg.html) or the [spring 2018 offering](http://ee.cooper.edu/dssg.html)

@@ -3,13 +3,13 @@ layout: post
 title:  "Data Science for Social Good, Spring 2023"
 date:   2023-05-15 03:32:51 -0500
 categories: jekyll update
-thumbnail: "/~keene/images/dataSci2023/circularityCrit1.jpg"
+thumbnail: "/images/dataSci2023/circularityCrit1.jpg"
 ---
 We opended our annual data science for social good exhibition today. Once again we partnered with several non profits and performed data visualization and analysis. Have a look below for descriptions of the projects and some pictures of the installation.
 
 [The Bail Project](https://bailproject.org/) is a national nonprofit organization that pays bail for people in need, reuniting families and restoring the presumption of innocence. We began devloping web-scraping tools to investigate re-arrest rates in Escambi County Florida. 
 
-![](/~keene/images/dataSci2023/bailProj.jpg)
+![](/images/dataSci2023/bailProj.jpg)
 
 
 Additionally we design and installed an exhibit which will highlight the inequities of bail amounts with a focus on the human loss of cash bail.
@@ -24,7 +24,7 @@ Additionally we design and installed an exhibit which will highlight the inequit
  
 
 
-<link rel="stylesheet" href="/~keene/assets/css/colorbox.css" />
+<link rel="stylesheet" href="/assets/css/colorbox.css" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
 
@@ -32,10 +32,10 @@ Additionally we design and installed an exhibit which will highlight the inequit
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="22" id="box1">
-        <img src="/~keene/images/dataSci2023/circ1.jpg">
-        <img src="/~keene/images/dataSci2023/circ2.jpg">
-        <img src="/~keene/images/dataSci2023/circ3.jpg">
-        <img src="/~keene/images/dataSci2023/circ4.jpg">
+        <img src="/images/dataSci2023/circ1.jpg">
+        <img src="/images/dataSci2023/circ2.jpg">
+        <img src="/images/dataSci2023/circ3.jpg">
+        <img src="/images/dataSci2023/circ4.jpg">
     </div>
 </center>
 
@@ -43,7 +43,7 @@ Additionally we design and installed an exhibit which will highlight the inequit
 
 With this dataset, we provided an analysis of the demographics of the neighborhoods to gain some insight into where this type of discrimination is more prevalant. We also developed an [interactive website](https://streeteasy-but-hard-production.up.railway.app/) to highlight this issue.
 
-<link rel="stylesheet" href="/~keene/assets/css/colorbox.css" />
+<link rel="stylesheet" href="/assets/css/colorbox.css" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
 
@@ -51,9 +51,9 @@ With this dataset, we provided an analysis of the demographics of the neighborho
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="21" id="box1">
-        <img src="/~keene/images/dataSci2023/hri1.jpg">
-        <img src="/~keene/images/dataSci2023/hri2.jpg">
-        <img src="/~keene/images/dataSci2023/hri3.jpg">
+        <img src="/images/dataSci2023/hri1.jpg">
+        <img src="/images/dataSci2023/hri2.jpg">
+        <img src="/images/dataSci2023/hri3.jpg">
     </div>
 </center>
 
@@ -62,12 +62,12 @@ We also provided analyses and visualizations for [City Harvest](https://www.city
 
 
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
-<script src="/~keene/assets/js/jquery.colorbox.js"></script>
+<script src="/assets/js/jquery.colorbox.js"></script>
 
 <script type="text/javascript">
 $('.photoset-grid-lightbox').photosetGrid({

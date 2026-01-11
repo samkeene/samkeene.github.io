@@ -3,22 +3,22 @@ layout: post
 title:  "Generative Machine Learing for Architecture"
 date:   2020-5-12 03:32:51 -0500
 categories: jekyll update
-thumbnail: "/~keene/images/HighresScreenshot00002.png"
+thumbnail: "/images/HighresScreenshot00002.png"
 ---
 
 We held our final review for a new course, [Generative Machine Learning for Architecture](https://docs.google.com/document/d/1o5_gQN5ByytWSoe67LLAIaFzEG86ReY_MXBjZDpCF_w/edit?usp=sharing) (co-instructor [Ben Aranda](http://arandalasch.com/work/featured/)). This was a new experiment at Cooper where we embedded a small group of engineering students into the architecture studio. Although the semester was quite disrupted by COVID-19, we are still really impressed with the output of this course.
 
 For example, Juan Cardona did some striking images imagining new textures in a new landscape:
 
-<link rel="stylesheet" href="/~keene/assets/css/colorbox.css" />
+<link rel="stylesheet" href="/assets/css/colorbox.css" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="21">
-        <img src="/~keene/images/HighresScreenshot00002.png">
-        <img src="/~keene/images/LightingDark.png"> 
-        <img src="/~keene/images/Metal.jpg"> 
+        <img src="/images/HighresScreenshot00002.png">
+        <img src="/images/LightingDark.png"> 
+        <img src="/images/Metal.jpg"> 
 
     </div>
 </center>
@@ -28,9 +28,9 @@ Other groups created websites, for example, this project explore [urban landscap
 To see all the work, have a look at the archives at the [Cooper Union Architecture End of Year Show](https://archeoys2020.cooper.edu/?collection=7lVLD&post=7KccJ), and for continuing updates, follow us on [Instagram](https://www.instagram.com/machine_learning_architecture/)
 
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
-<script src="/~keene/assets/js/jquery.colorbox.js"></script>
+<script src="/assets/js/jquery.colorbox.js"></script>
 
 <script type="text/javascript">
 $('.photoset-grid-lightbox').photosetGrid({

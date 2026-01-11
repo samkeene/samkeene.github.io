@@ -3,7 +3,7 @@ layout: post
 title:  "Workshop on Generative Machine Learning for Architecture and Art, Spring 2023"
 date:   2023-04-22 03:32:51 -0500
 categories: jekyll update
-thumbnail: "/~keene/images/mlArch23/genMLFlyer.png"
+thumbnail: "/images/mlArch23/genMLFlyer.png"
 ---
 
 Along with my colleague Ben Aranda, we hosted our inaugural Workshop on Generative Art, Architecture & Engineering Collaboration. Leading practitioners in the field of generative art, design and machine learning presented their work and engaged in a discussion led by students. This workshop was an extension a multi-year effort to explore generative algorithms and Machine Learning at Cooper Union through a series of interdisciplinary seminars and studios, where students from the art, architecture and engineering schools work together. 
@@ -34,7 +34,7 @@ As part of this workshop, we also exhibited the work from our Generative Machine
 
 The user sits inside a mirrored chamber, where an AI detects their emotion. These cues are fed to a generative algorithm which creates images illuminating the chamber.
 
-![](/~keene/images/mlArch23/emotion.jpeg)
+![](/images/mlArch23/emotion.jpeg)
 
 Team: Sue Zhou, Nicole Joseph, Anne He
 
@@ -43,8 +43,8 @@ Team: Sue Zhou, Nicole Joseph, Anne He
 
 This piece classifies the users age, gender, race, and emotion. It then replaces the users face with a generated version of themselves as the AI sees them. It can be deeply unsettling to see yourself replaced, particularly when the biases of AI are revealed in the process.
 
-![](/~keene/images/mlArch23/faceSwap.jpeg)
-![](/~keene/images/mlArch23/faceSwapInAction.jpeg)
+![](/images/mlArch23/faceSwap.jpeg)
+![](/images/mlArch23/faceSwapInAction.jpeg)
 
 
 
@@ -54,7 +54,7 @@ Team: Aiden Shankman, Garret Ingman, Samuel Finley
 
 This project allowed users to play with simple kindergarten blocks, take pictures, and ask them to be realized into architectural buildings 
 
-![](/~keene/images/mlArch23/stableBlocks.png)
+![](/images/mlArch23/stableBlocks.png)
 
 
 ## **Cellular Automata** 

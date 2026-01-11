@@ -16,16 +16,16 @@ Testing a page. Where does this page live?
 
 <center>
     <div class="photoset-grid-custom" data-layout="213">
-        <img src="/~keene/images/stairs.jpg">
-        <img src="/~keene/images/clock.jpg">
-        <img src="/~keene/images/clock2.jpg">
-        <img src="/~keene/images/lincoln.jpg">
-        <img src="/~keene/images/deal.jpg">
-        <img src="/~keene/images/elevator.jpg">
+        <img src="/images/stairs.jpg">
+        <img src="/images/clock.jpg">
+        <img src="/images/clock2.jpg">
+        <img src="/images/lincoln.jpg">
+        <img src="/images/deal.jpg">
+        <img src="/images/elevator.jpg">
     </div>
 </center>
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
 <script type="text/javascript">
     $('.photoset-grid-custom').photosetGrid({

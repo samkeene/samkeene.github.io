@@ -3,13 +3,13 @@ layout: post
 title:  "Data Science for Social Good, Spring 2022"
 date:   2022-05-12 03:32:51 -0500
 categories: jekyll update
-thumbnail: "/~keene/images/datasci2022/20220513_154047.jpg"
+thumbnail: "/images/datasci2022/20220513_154047.jpg"
 ---
 We opended our annual data science for social good exhibition today, in person again after a year off. Once again we partnered with several non profits and performed data visualization and analysis. Have a look below for descriptions of the projects and some pictures of the installation.
 
 [The Bail Project](https://bailproject.org/) is a national nonprofit organization that pays bail for people in need, reuniting families and restoring the presumption of innocence. In collaboration, we are developing a suite of web-scraping tools to collect data from several county jails in Mississippi. We performed a data analysis and visualization on the resulting data. Additionally we’ve installed an interactive exhibit which will highlight the inequities of bail amounts with a focus on race, age and gender.
 
-<link rel="stylesheet" href="/~keene/assets/css/colorbox.css" />
+<link rel="stylesheet" href="/assets/css/colorbox.css" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
 
@@ -17,10 +17,10 @@ We opended our annual data science for social good exhibition today, in person a
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="22" id="box1">
-        <img src="/~keene/images/datasci2022/20220513_153634.jpg">
-        <img src="/~keene/images/datasci2022/20220513_153624.jpg">
-        <img src="/~keene/images/datasci2022/20220513_153620.jpg">
-        <img src="/~keene/images/datasci2022/20220513_153450.jpg">
+        <img src="/images/datasci2022/20220513_153634.jpg">
+        <img src="/images/datasci2022/20220513_153624.jpg">
+        <img src="/images/datasci2022/20220513_153620.jpg">
+        <img src="/images/datasci2022/20220513_153450.jpg">
     </div>
 </center>
 
@@ -32,9 +32,9 @@ We opended our annual data science for social good exhibition today, in person a
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="21" id="box2">
-        <img src="/~keene/images/datasci2022/20220513_153424.jpg">
-        <img src="/~keene/images/datasci2022/20220513_153417.jpg">
-        <img src="/~keene/images/datasci2022/20220513_153444.jpg">
+        <img src="/images/datasci2022/20220513_153424.jpg">
+        <img src="/images/datasci2022/20220513_153417.jpg">
+        <img src="/images/datasci2022/20220513_153444.jpg">
     </div>
 </center>
 
@@ -43,7 +43,7 @@ We opended our annual data science for social good exhibition today, in person a
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="1" id="box2">
-        <img src="/~keene/images/datasci2022/20220513_153411.jpg">
+        <img src="/images/datasci2022/20220513_153411.jpg">
     </div>
 </center>
 
@@ -52,7 +52,7 @@ We opended our annual data science for social good exhibition today, in person a
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="1" id="box2">
-        <img src="/~keene/images/datasci2022/20220513_154036.jpg">
+        <img src="/images/datasci2022/20220513_154036.jpg">
     </div>
 </center>
 
@@ -62,12 +62,12 @@ We opended our annual data science for social good exhibition today, in person a
 
 
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
-<script src="/~keene/assets/js/jquery.colorbox.js"></script>
+<script src="/assets/js/jquery.colorbox.js"></script>
 
 <script type="text/javascript">
 $('.photoset-grid-lightbox').photosetGrid({

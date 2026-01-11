@@ -18,9 +18,9 @@ A gallery of illustrating these food islands is shown below, an interactive visu
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="21">
-        <img src="/~keene/images/dataSci/Sarah_DWM_36x24_RGB_011024_1.jpg">
-        <img src="/~keene/images/dataSci/Sarah_DWM_40x40_RGB_021024_1.jpg">
-        <img src="/~keene/images/dataSci/Sarah_DWM_40x40_RGB_031024_1.jpg">
+        <img src="/images/dataSci/Sarah_DWM_36x24_RGB_011024_1.jpg">
+        <img src="/images/dataSci/Sarah_DWM_40x40_RGB_021024_1.jpg">
+        <img src="/images/dataSci/Sarah_DWM_40x40_RGB_031024_1.jpg">
 
     </div>
 </center>
@@ -29,10 +29,10 @@ A gallery of illustrating these food islands is shown below, an interactive visu
 
 Nicolas Gao,(BSE '18) Ross Kaplan(EE '18), Anushree Shreedhar(chemE '19) and Zhenni Zhu(Arch '19) also investigated this data set. They illustrated the difference food insecurity across different neighborhoods, and developed predictive models that could potentially be used to help inform City Harvest and Feed NYC about how many people might be served if a food source were to be opened at a particular location.
 
-Some of their visualizations are in the gallery below, and their final report is [here]({{ site.url }}/~keene/assets/City_Harvest_Group_2_Report.pdf).
+Some of their visualizations are in the gallery below, and their final report is [here]({{ site.url }}/assets/City_Harvest_Group_2_Report.pdf).
 
 ## Gallery
-<link rel="stylesheet" href="/~keene/assets/css/colorbox.css" />
+<link rel="stylesheet" href="/assets/css/colorbox.css" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
 
@@ -41,25 +41,25 @@ Some of their visualizations are in the gallery below, and their final report is
 <center>
     <div class="photoset-grid-lightbox" data-layout="322">
     
-        <img src="/~keene/images/dataSci/Sarah_DWM_36x24_RGB_011024_1.jpg">
-        <img src="/~keene/images/dataSci/Sarah_DWM_40x40_RGB_021024_1.jpg">
-        <img src="/~keene/images/dataSci/Sarah_DWM_40x40_RGB_031024_1.jpg">
+        <img src="/images/dataSci/Sarah_DWM_36x24_RGB_011024_1.jpg">
+        <img src="/images/dataSci/Sarah_DWM_40x40_RGB_021024_1.jpg">
+        <img src="/images/dataSci/Sarah_DWM_40x40_RGB_031024_1.jpg">
 
-        <img src="/~keene/images/dataSci/Anu_40x60_RGB_041024_1.jpg">
-        <img src="/~keene/images/dataSci/Anu_DWM_40x40_RGB_031024_1.jpg">
-        <img src="/~keene/images/dataSci/Anu_DWM_44x44_RGB_021024_1.jpg">
-        <img src="/~keene/images/dataSci/Anu_DWM_63x44_RGB_011024_1.jpg">
+        <img src="/images/dataSci/Anu_40x60_RGB_041024_1.jpg">
+        <img src="/images/dataSci/Anu_DWM_40x40_RGB_031024_1.jpg">
+        <img src="/images/dataSci/Anu_DWM_44x44_RGB_021024_1.jpg">
+        <img src="/images/dataSci/Anu_DWM_63x44_RGB_011024_1.jpg">
 
 
     </div>
 </center>
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
-<script src="/~keene/assets/js/jquery.colorbox.js"></script>
+<script src="/assets/js/jquery.colorbox.js"></script>
 
 <script type="text/javascript">
 $('.photoset-grid-lightbox').photosetGrid({

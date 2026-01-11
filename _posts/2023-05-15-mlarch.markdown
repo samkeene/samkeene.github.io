@@ -3,7 +3,7 @@ layout: post
 title:  "Generative Machine Learning for Architecture, Spring 2022"
 date:   2022-05-15 03:32:51 -0500
 categories: jekyll update
-thumbnail: "/~keene/images/mlarch22/gasket2.jpg"
+thumbnail: "/images/mlarch22/gasket2.jpg"
 ---
 We concluded our final reviews for Generative Machine Learning for Architecture in the Houghton gallery. Check out the images and videos below.
 
@@ -12,15 +12,15 @@ We concluded our final reviews for Generative Machine Learning for Architecture 
 
 This project explores a novel architectural structure using a circle packing algorithm, the Apollonian Gasket, to create an installation and lighting concept.
 
-<link rel="stylesheet" href="/~keene/assets/css/colorbox.css" />
+<link rel="stylesheet" href="/assets/css/colorbox.css" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="122">
-        <img src="/~keene/images/mlarch22/gasket1.jpg">
-        <img src="/~keene/images/mlarch22/gasket2.jpg">
-        <img src="/~keene/images/mlarch22/gasket3.jpg">
+        <img src="/images/mlarch22/gasket1.jpg">
+        <img src="/images/mlarch22/gasket2.jpg">
+        <img src="/images/mlarch22/gasket3.jpg">
     </div>
 </center>
 
@@ -44,8 +44,8 @@ Team: Rhyna Chen (Arch), Michael Sluchevsky (Arch), River Friedman (Art), Allist
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="2">
-        <img src="/~keene/images/mlarch22/mazes1.jpg">
-        <img src="/~keene/images/mlarch22/mazes2.jpg">
+        <img src="/images/mlarch22/mazes1.jpg">
+        <img src="/images/mlarch22/mazes2.jpg">
     </div>
 </center>
 Team: Earl Kwofie (Arch), Min Cheng (Eng), Seyun Kim (Eng)
@@ -54,10 +54,10 @@ Team: Earl Kwofie (Arch), Min Cheng (Eng), Seyun Kim (Eng)
 Miscellaneous other projects
 <center>
     <div class="photoset-grid-lightbox" data-layout="22">
-        <img src="/~keene/images/mlarch22/misc1.jpg">
-        <img src="/~keene/images/mlarch22/misc2.jpg">
-        <img src="/~keene/images/mlarch22/misc3.jpg">
-         <img src="/~keene/images/mlarch22/misc4.jpg">
+        <img src="/images/mlarch22/misc1.jpg">
+        <img src="/images/mlarch22/misc2.jpg">
+        <img src="/images/mlarch22/misc3.jpg">
+         <img src="/images/mlarch22/misc4.jpg">
 
 
     </div>
@@ -66,12 +66,12 @@ Miscellaneous other projects
 
 
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
-<script src="/~keene/assets/js/jquery.colorbox.js"></script>
+<script src="/assets/js/jquery.colorbox.js"></script>
 
 <script type="text/javascript">
 $('.photoset-grid-lightbox').photosetGrid({

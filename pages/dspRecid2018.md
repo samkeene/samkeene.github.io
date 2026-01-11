@@ -14,6 +14,6 @@ Addtionally, they studied the commute times of the particpants. While they did n
 
 More details can be found in their [final report](https://docs.google.com/document/d/1HKJ2ASutvUi8cySZ2skwoT6qKTTDrliHSVdob4NFQds/edit?usp=sharing), and a few of their data visualizations can be seen below.
 
- <img src="/~keene/images/dataSci/Route1024_1.jpg">
- <img src="/~keene/images/dataSci/Address_and_Job1024_1.jpg">
+ <img src="/images/dataSci/Route1024_1.jpg">
+ <img src="/images/dataSci/Address_and_Job1024_1.jpg">
 

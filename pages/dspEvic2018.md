@@ -12,11 +12,11 @@ The student team examined two things related to this dataset. First, they tried 
 
 The other aspect examined was to overlay the locations of grant awardees with a dataset of [bad landlords](https://advocate.nyc.gov/landlord-watchlist/worst-landlords), as provided by the NYC public advocate. By comparign these locations, there are some obvious areas of overlap as would be expected. Neighborhoods with many 'bad landlords' in general seem to have a higher amount of people at risk of eviction. However, there were some neighborhoods, with a high amount of 'bad landlords', that currently do not have a high amount of evictions. Further investigation will study what is different about these neighborhoods, and perhaps an intervention strategy can be developed to prevent future evictions in those areas.
 
-See the gallery below for some of their visualizations, and pdf versions of the maps are [here]({{ site.url }}/~keene/assets/DC_CFH_AmountCases_01.pdf) and [here]({{ site.url }}/~keene/assets/DC_CFH_LandlordFollowup_02.pdf). To read more details, have a look at their [final report](https://docs.google.com/document/d/1wKUZoMTeDdwQj50NUd_zV2UrE_ZsMljG6Fpsd1-L-jw/edit?usp=sharing)
+See the gallery below for some of their visualizations, and pdf versions of the maps are [here]({{ site.url }}/assets/DC_CFH_AmountCases_01.pdf) and [here]({{ site.url }}/assets/DC_CFH_LandlordFollowup_02.pdf). To read more details, have a look at their [final report](https://docs.google.com/document/d/1wKUZoMTeDdwQj50NUd_zV2UrE_ZsMljG6Fpsd1-L-jw/edit?usp=sharing)
 
 ## Gallery
 
-<link rel="stylesheet" href="/~keene/assets/css/colorbox.css" />
+<link rel="stylesheet" href="/assets/css/colorbox.css" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
 
@@ -24,16 +24,16 @@ See the gallery below for some of their visualizations, and pdf versions of the 
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="21">
-        <img src="/~keene/images/dataSci/Eva_DWM_36x24_RGB1024_1.jpg">
-        <img src="/~keene/images/dataSci/DC_CFH_AmountCases_01.jpg">
-        <img src="/~keene/images/dataSci/DC_CFH_LandlordFollowup_02.jpg">       
+        <img src="/images/dataSci/Eva_DWM_36x24_RGB1024_1.jpg">
+        <img src="/images/dataSci/DC_CFH_AmountCases_01.jpg">
+        <img src="/images/dataSci/DC_CFH_LandlordFollowup_02.jpg">       
     </div>
 </center>
 
 
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
-<script src="/~keene/assets/js/jquery.colorbox.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.colorbox.js"></script>
 
 <script type="text/javascript">
 $('.photoset-grid-lightbox').photosetGrid({

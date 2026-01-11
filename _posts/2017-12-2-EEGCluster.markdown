@@ -12,4 +12,4 @@ We used the [TUH EEG corpus](https://www.isip.piconepress.com/projects/tuh_eeg/)
 
 We found that our method was able to learn a meaningful representation of EEGs signals in a reduced dimensional latent space, and therefore could potentially be used as part of cohort retrieval system, as a simple Euclidean(or other) distance metric could be used between patients for a rapid lookup.
 
-For more details, please have a look at the paper, [A Learned Embedding Space for EEG Signal Clustering]({{ site.url }}/~keene/assets/EEG_Clustering.pdf).
+For more details, please have a look at the paper, [A Learned Embedding Space for EEG Signal Clustering]({{ site.url }}/assets/EEG_Clustering.pdf).

@@ -3,7 +3,7 @@ layout: post
 title:  "Projections"
 date:   2017-6-3 03:32:51 -0500
 categories: jekyll update
-thumbnail: "/~keene/images/stairs.jpg"
+thumbnail: "/images/stairs.jpg"
 
 ---
 
@@ -25,10 +25,10 @@ One of the first steps in preparing data for LDA is to give the algorithm a set 
 
 Emily postulated: What would happen if we remove all the buzzwords about Cooper that we have come to accept? What would the algorithm tell us is left? So, they added all the buzzwords to the stop word list, and re-ran LDA. Naturally, the resulting topics were quite different, and were more about relationships and experiences.
 
-Finally, they wanted some way to visualize these results. This was another moment where I really came to appreciate the value of this collaboration. As an engineering professor, I would have expected an accepted a report with some sort of charts and graphs and been very happy. That is not at all what they chose to do. Instead, they associated the resulting topics with images and locations around Cooper, and made a series of projection drawings all over campus, as well as a [map]({{ site.url }}/~keene/images/map.pdf) so people can explore the work.
+Finally, they wanted some way to visualize these results. This was another moment where I really came to appreciate the value of this collaboration. As an engineering professor, I would have expected an accepted a report with some sort of charts and graphs and been very happy. That is not at all what they chose to do. Instead, they associated the resulting topics with images and locations around Cooper, and made a series of projection drawings all over campus, as well as a [map]({{ site.url }}/images/map.pdf) so people can explore the work.
 
 
-<link rel="stylesheet" href="/~keene/assets/css/colorbox.css" />
+<link rel="stylesheet" href="/assets/css/colorbox.css" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
 
@@ -38,21 +38,21 @@ Finally, they wanted some way to visualize these results. This was another momen
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="213">
-        <img src="/~keene/images/stairs.jpg">
-        <img src="/~keene/images/clock.jpg">
-        <img src="/~keene/images/clock2.jpg">
-        <img src="/~keene/images/lincoln.jpg">
-        <img src="/~keene/images/deal.jpg">
-        <img src="/~keene/images/elevator.jpg">
+        <img src="/images/stairs.jpg">
+        <img src="/images/clock.jpg">
+        <img src="/images/clock2.jpg">
+        <img src="/images/lincoln.jpg">
+        <img src="/images/deal.jpg">
+        <img src="/images/elevator.jpg">
     </div>
 </center>
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
-<script src="/~keene/assets/js/jquery.colorbox.js"></script>
+<script src="/assets/js/jquery.colorbox.js"></script>
 
 <script type="text/javascript">
 $('.photoset-grid-lightbox').photosetGrid({

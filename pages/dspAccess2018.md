@@ -21,7 +21,7 @@ The answers to these questions are found in their [final report](https://docs.go
 
 ## Gallery
 
-<link rel="stylesheet" href="/~keene/assets/css/colorbox.css" />
+<link rel="stylesheet" href="/assets/css/colorbox.css" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
 
@@ -30,20 +30,20 @@ The answers to these questions are found in their [final report](https://docs.go
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="22">
-        <img src="/~keene/images/dataSci/Zhenia_24x2480x80_RGB_031024_1.jpg">
-        <img src="/~keene/images/dataSci/Zhenia_24x2480x80_RGB_031024_2.jpg">
-               <img src="/~keene/images/dataSci/Zhenia_24x2480x80_RGB_031024_3.jpg">
-        <img src="/~keene/images/dataSci/Zhenia_24x2480x80_RGB_031024_4.jpg">
+        <img src="/images/dataSci/Zhenia_24x2480x80_RGB_031024_1.jpg">
+        <img src="/images/dataSci/Zhenia_24x2480x80_RGB_031024_2.jpg">
+               <img src="/images/dataSci/Zhenia_24x2480x80_RGB_031024_3.jpg">
+        <img src="/images/dataSci/Zhenia_24x2480x80_RGB_031024_4.jpg">
  
     </div>
 </center>
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
-<script src="/~keene/assets/js/jquery.colorbox.js"></script>
+<script src="/assets/js/jquery.colorbox.js"></script>
 
 <script type="text/javascript">
 $('.photoset-grid-lightbox').photosetGrid({

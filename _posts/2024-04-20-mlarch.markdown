@@ -3,7 +3,7 @@ layout: post
 title:  "Workshop on Generative Machine Learning for Architecture and Art, Spring 2024"
 date:   2024-04-20 03:32:51 -0500
 categories: jekyll update
-thumbnail: "/~keene/images/mlArch23/genMLFlyer.png"
+thumbnail: "/images/mlArch23/genMLFlyer.png"
 ---
 
 Along with my colleague Ben Aranda, we hosted the 2nd Workshop on Generative Art, Architecture & Engineering Collaboration. Leading practitioners in the field of generative art, design and machine learning presented their work and engaged in a discussion led by students. This workshop was an extension ofour multi-year effort to explore generative algorithms and Machine Learning at Cooper Union through a series of interdisciplinary seminars and studios, where students from the art, architecture and engineering schools work together. 
@@ -14,9 +14,9 @@ Our panelists included:
 As part of this workshop, we also exhibited the work from our Generative Machine Learning for Architecture and Art course. Some of the work is shown below.
 
 
-![](/~keene/images/dataSci2024/ml6.jpg)
+![](/images/dataSci2024/ml6.jpg)
 
-<link rel="stylesheet" href="/~keene/assets/css/colorbox.css" />
+<link rel="stylesheet" href="/assets/css/colorbox.css" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
 
@@ -24,22 +24,22 @@ As part of this workshop, we also exhibited the work from our Generative Machine
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="33" id="box1">
-        <img src="/~keene/images/dataSci2024/ml1.jpg">
-        <img src="/~keene/images/dataSci2024/ml2.jpg">
-        <img src="/~keene/images/dataSci2024/ml7.jpg">
-        <img src="/~keene/images/dataSci2024/ml4.jpg">
-        <img src="/~keene/images/dataSci2024/ml5.jpg">
-        <img src="/~keene/images/dataSci2024/ml6.jpg">
+        <img src="/images/dataSci2024/ml1.jpg">
+        <img src="/images/dataSci2024/ml2.jpg">
+        <img src="/images/dataSci2024/ml7.jpg">
+        <img src="/images/dataSci2024/ml4.jpg">
+        <img src="/images/dataSci2024/ml5.jpg">
+        <img src="/images/dataSci2024/ml6.jpg">
     </div>
 </center>
 
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
-<script src="/~keene/assets/js/jquery.colorbox.js"></script>
+<script src="/assets/js/jquery.colorbox.js"></script>
 
 <script type="text/javascript">
 $('.photoset-grid-lightbox').photosetGrid({

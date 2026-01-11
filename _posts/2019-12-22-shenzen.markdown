@@ -3,7 +3,7 @@ layout: post
 title:  "Shenzen Biennial"
 date:   2019-12-22 03:32:51 -0500
 categories: jekyll update
-thumbnail: "/~keene/images/shenzen/img1.png"
+thumbnail: "/images/shenzen/img1.png"
 
 ---
 The Shenzen Biennial of Urbanism/Architecture opened on Dec 22, 2019, and an exhibit I worked on in conjunction with [Ben Aranda](http://arandalasch.com/) and a group of Cooper Union students was an intergral part of the Biennial.
@@ -14,7 +14,7 @@ In our piece, a user must first register with the system, explictly granting the
 
 A few images of the prototype we built on campus at The Cooper Union are below, and for some press coverage of the Binenial, have a look [here.](https://worldarchitecture.org/architecture-news/eefpp/the-world-s-most-visited-architecture-biennale-opens-in-shenzhen.html)
 
-<link rel="stylesheet" href="/~keene/assets/css/colorbox.css" />
+<link rel="stylesheet" href="/assets/css/colorbox.css" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
 
@@ -22,11 +22,11 @@ A few images of the prototype we built on campus at The Cooper Union are below, 
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="212" id="box3">
-        <img src="/~keene/images/shenzen/img1.png">
-        <img src="/~keene/images/shenzen/img2.png">
-        <img src="/~keene/images/shenzen/img3.png">
-        <img src="/~keene/images/shenzen/img4.png">
-        <img src="/~keene/images/shenzen/img5.png">
+        <img src="/images/shenzen/img1.png">
+        <img src="/images/shenzen/img2.png">
+        <img src="/images/shenzen/img3.png">
+        <img src="/images/shenzen/img4.png">
+        <img src="/images/shenzen/img5.png">
     </div>
 </center>
 
@@ -34,12 +34,12 @@ A few images of the prototype we built on campus at The Cooper Union are below, 
 
 
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
-<script src="/~keene/assets/js/jquery.colorbox.js"></script>
+<script src="/assets/js/jquery.colorbox.js"></script>
 
 <script type="text/javascript">
 $('.photoset-grid-lightbox').photosetGrid({

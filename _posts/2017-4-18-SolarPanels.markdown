@@ -19,6 +19,6 @@ better able to predict demand and better manage their resources.
 
 Here are the papers we've published, both of them authored by Cooper Union students and accepted at peer-reviewed conferences
 
-[Image features for pixel-wise detection of solar photovoltaic arrays in aerial imagery using a random forest classifier]({{ site.url }}/~keene/assets/conference_icrera2016_textureFeats_v5_submission.pdf)
+[Image features for pixel-wise detection of solar photovoltaic arrays in aerial imagery using a random forest classifier]({{ site.url }}/assets/conference_icrera2016_textureFeats_v5_submission.pdf)
 
-[Estimating the Electricity Generation Capacity of Solar Photovoltaic Arrays Using Only Color Aerial Imagery]({{ site.url }}/~keene/assets/igarss2017_predictingPanelCapacityFromAerialImagery_v6 copy.pdf)
+[Estimating the Electricity Generation Capacity of Solar Photovoltaic Arrays Using Only Color Aerial Imagery]({{ site.url }}/assets/igarss2017_predictingPanelCapacityFromAerialImagery_v6 copy.pdf)

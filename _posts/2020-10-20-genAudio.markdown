@@ -3,16 +3,16 @@ layout: post
 title:  "Ongoing work on deep autoencoders for audio synthesis, effects, and mixing"
 date:   2020-10-20 03:32:51 -0500
 categories: jekyll update
-thumbnail: "/~keene/images/mixer.png"
+thumbnail: "/images/mixer.png"
 ---
 
 I've been continuting my collaboration with a former masters student, [JT Colonel](https://www.josephtcolonel.com/), who has now moved on to Ph.D work. We have been advancing some of our work on using deep neural network based autoencoders and their applications towards audio synthesis, effects, and mixing. 
 
 In July, we presented a paper at IJCNN 2020, [Conditioning Autoencoder Latent Spaces for Real-Time Timbre and Synthesis](https://arxiv.org/pdf/2001.11296). In this paper, we discuss autoencoder topologies and examine the use of one-hot encoding schemes. We show that with the proper topology and coding scheme, we can improve the performance of the autoencoder (in terms of spectral convergance), while also obtaining better interpolation properties in the latent space. The improved interpolation properties in the latent space will ultimately allow these tools to be more intuitive should any artists or musicans wish to incorporate them in their work.
 
-In October 2020, we presented an extension of this work, where we are able to use the latent space representation to develop a novel mixing technique in real time. The paper, Low Latency Timbre Interpolation and Warping using Autoencoding Neural Networks, is available [here](http://ee.cooper.edu/~keene/assets/timbre.pdf). See the image below for a sketch of the architecture of the system.
+In October 2020, we presented an extension of this work, where we are able to use the latent space representation to develop a novel mixing technique in real time. The paper, Low Latency Timbre Interpolation and Warping using Autoencoding Neural Networks, is available [here](http://ee.cooper.edu/assets/timbre.pdf). See the image below for a sketch of the architecture of the system.
 
 
-![](/~keene/images/mixer.png)
+![](/images/mixer.png)
 
 We are continuing to develop this work, and we hope to develop a VST plugin soon, that will enable musicians to easily access these algorithms through many digital audio workstations. In the meantime, if you want to play around with this material on your own, check out JT's [github](https://github.com/JTColonel/)

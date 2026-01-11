@@ -3,7 +3,7 @@ layout: post
 title:  "Understanding the Bailable Population in Mississippi"
 date:   2021-09-30 03:32:51 -0500
 categories: jekyll update
-thumbnail: "/~keene/images/mississippi.png"
+thumbnail: "/images/mississippi.png"
 ---
 Recently, one of my graduate students defended her Master's thesis, an examination of the bailable population in Mississippi. This work was done in collaboration with [The Bail Project](https://bailproject.org/), a non profit who's mission is to combat mass incarceration and restore presumption of innocence, reunite families, and challenge a system that criminalizes race and poverty. 
 

@@ -25,15 +25,15 @@ There was only one small problem left - Google and Twitters APIs did not allow c
 
 The causal impact model works by tracking time series data (for example, # of hourly google searches), both before and after the event (for example the start of a marketing campaign). In order to develop a control, the model needs other, untreated markets to compare agaist. By using the time series data of both the treated and untreated markets, we can attempt to infer the causal impact. If there is a significant diverence in the response (the # of google seaches) in the treated market, then we can infer that the treatment (the marketing campaign), caused the response.
 
-The above description is a gross over simplification, and the model Neema used is a full Bayesian treatment of this topic, and for more detail, refer to Neema's [thesis.]({{ site.url }}/~keene/assets/Neema_Thesis_vFinal.pdf)
+The above description is a gross over simplification, and the model Neema used is a full Bayesian treatment of this topic, and for more detail, refer to Neema's [thesis.]({{ site.url }}/assets/Neema_Thesis_vFinal.pdf)
 
 Now, for the results, which marketing campaigns resulted in significant buzz, and which fell flat?
 
 
 
-![google]({{ site.url }}/~keene/images/googleresults.png)
+![google]({{ site.url }}/images/googleresults.png)
 
-![twitter]({{ site.url }}/~keene/images/twitterresults.png)
+![twitter]({{ site.url }}/images/twitterresults.png)
 
 84 lumber appears to have hit a home run with their marketing campaign. The ad depicts a mother and daughters migrant journey towards becoming legal american citizens.
 
@@ -49,11 +49,11 @@ Meanwhile Bai's ad, featuring high powered celebreties Christopher Walken and Ju
 
 Another interesting aspect of the Bayesian treatment, is that it the model also determines which control markets are correlated with the market under investigation. This led to some interesting results
 
-![budlight]({{ site.url }}/~keene/images/budlightcontrols.png)
+![budlight]({{ site.url }}/images/budlightcontrols.png)
 
 Shock Top and Blue Moon appear to be strong controls for Bud Light, which makes sense, but why would Twix and Pringles be more relevant than Corona?
 
-![skittles]({{ site.url }}/~keene/images/skittlessnickerscontrols.png)
+![skittles]({{ site.url }}/images/skittlessnickerscontrols.png)
 
 Two candies have strong controls with other candies and junk foods, yet seemingly "healthy" options such as Dasani and Smart Water, also show up as strong controls for these markets.
 

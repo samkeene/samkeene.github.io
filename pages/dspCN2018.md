@@ -20,5 +20,5 @@ The goal of the student team was to analyze this dataset and provide Charity Nav
 
 The team analyzed this dataset using a technique called Latent Dirichlet Allocation[(LDA)](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), which is a method for organizing large corpora of documents. LDA postualtes that a document is made up of a mixture of hidden, or latent, topics. When presented with a large corpora of data, LDA can learn the underlying topics that exist in the dataset, and additionally indicate a percentage of how much each topic contributes to a particular document.
 
-Much more details about this are presented in their [final report]({{ site.url }}/~keene/assets/Charity_Navigator_Final_Paper.pdf). For an interactive data visualization that shows the document clustering, have a look [here](https://yucy96.github.io/Charity_Navi/).
+Much more details about this are presented in their [final report]({{ site.url }}/assets/Charity_Navigator_Final_Paper.pdf). For an interactive data visualization that shows the document clustering, have a look [here](https://yucy96.github.io/Charity_Navi/).
 

@@ -4,7 +4,7 @@ title:  "Autoencoding Neural Networks as Musical Audio Synthesizers"
 date:   2018-9-4 03:32:51 -0500
 categories: jekyll update
 ---
-My Master's student, Joseph Colonel, recently presented a paper [Autoencoding Neural Networks as Musical Audio Synthesizers]({{ site.url }}/~keene/assets/dafx2018_submission42_revised_jcolonel.pdf), at the Digital Audio Effects conference in Averio, Portugal. The purpose of this project is to try to unlock the potential of deep neural networks and create a new type of audio synthesizer.
+My Master's student, Joseph Colonel, recently presented a paper [Autoencoding Neural Networks as Musical Audio Synthesizers]({{ site.url }}/assets/dafx2018_submission42_revised_jcolonel.pdf), at the Digital Audio Effects conference in Averio, Portugal. The purpose of this project is to try to unlock the potential of deep neural networks and create a new type of audio synthesizer.
 
 Traditional synthesizers work by building waveforms from a set of base waveforms and envelope shapes. For example you can simply sum a few sine-waves and change the attack and decay of the tone. [Wikipedia](https://en.wikipedia.org/wiki/Synthesizer#Components) has a much better description of how these traditional synthesizers work. These simple methods are what gave us the wonderful 80s synth pop sounds we know and love. 
 

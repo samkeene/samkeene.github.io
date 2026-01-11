@@ -3,7 +3,7 @@ layout: post
 title:  "Data Science and Design Projects for Social Good, Spring 2019"
 date:   2019-5-28 03:32:51 -0500
 categories: jekyll update
-thumbnail: "/~keene/images/dataSci2019/riceBowlCloseUp.jpg"
+thumbnail: "/images/dataSci2019/riceBowlCloseUp.jpg"
 
 ---
 
@@ -20,7 +20,7 @@ The projects spanned topics such as housing inequity, food insecurity, gun safet
 
 
 
-<link rel="stylesheet" href="/~keene/assets/css/colorbox.css" />
+<link rel="stylesheet" href="/assets/css/colorbox.css" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
 
@@ -29,11 +29,11 @@ The projects spanned topics such as housing inequity, food insecurity, gun safet
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="212" id="box1">
-        <img src="/~keene/images/dataSci2019/everytown.jpg">
-        <img src="/~keene/images/dataSci2019/housingRights1.jpg">
-        <img src="/~keene/images/dataSci2019/housingRights2.jpg">
-        <img src="/~keene/images/dataSci2019/riceBowl.jpg">
-        <img src="/~keene/images/dataSci2019/riceBowlCloseUp.jpg">
+        <img src="/images/dataSci2019/everytown.jpg">
+        <img src="/images/dataSci2019/housingRights1.jpg">
+        <img src="/images/dataSci2019/housingRights2.jpg">
+        <img src="/images/dataSci2019/riceBowl.jpg">
+        <img src="/images/dataSci2019/riceBowlCloseUp.jpg">
     </div>
 </center>
 
@@ -45,13 +45,13 @@ The projects spanned topics such as housing inequity, food insecurity, gun safet
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="12" id="box2">
-        <img src="/~keene/images/dataSci2019/Foldable.jpg">
-        <img src="/~keene/images/dataSci2019/3d_FINAL.jpg">
-        <img src="/~keene/images/dataSci2019/map_ext_FINAL.jpg">
+        <img src="/images/dataSci2019/Foldable.jpg">
+        <img src="/images/dataSci2019/3d_FINAL.jpg">
+        <img src="/images/dataSci2019/map_ext_FINAL.jpg">
    </div>
 </center>
 
-Here are links to the full-resolution [foldable]({{site.url}}/~keene/images/dataSci2019/Foldable.pdf), [map 1]({{site.url}}/~keene/images/dataSci2019/3d_FINAL.pdf) and [map 2]({{site.url}}/~keene/images/dataSci2019/map_ext_FINAL.pdf).
+Here are links to the full-resolution [foldable]({{site.url}}/images/dataSci2019/Foldable.pdf), [map 1]({{site.url}}/images/dataSci2019/3d_FINAL.pdf) and [map 2]({{site.url}}/images/dataSci2019/map_ext_FINAL.pdf).
 
 Students: Calil Russell-Arguedas, Nicholas Gao, Ryan Jaipersaud, Kevin Sheng, Camila Villa Zertuche
 
@@ -64,11 +64,11 @@ Second, they created an interactive tool that uses machine learning to predict t
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="212" id="box3">
-        <img src="/~keene/images/dataSci2019/ch1.png">
-        <img src="/~keene/images/dataSci2019/ch2.png">
-        <img src="/~keene/images/dataSci2019/ch3.png">
-        <img src="/~keene/images/dataSci2019/ch4.png">
-        <img src="/~keene/images/dataSci2019/ch5.png">
+        <img src="/images/dataSci2019/ch1.png">
+        <img src="/images/dataSci2019/ch2.png">
+        <img src="/images/dataSci2019/ch3.png">
+        <img src="/images/dataSci2019/ch4.png">
+        <img src="/images/dataSci2019/ch5.png">
     </div>
 </center>
 
@@ -76,8 +76,8 @@ Finally, the data inspired a sculpture of a rice bowl. Inside this rice bowl are
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="2" id="box4">
-        <img src="/~keene/images/dataSci2019/riceBowl.jpg">
-        <img src="/~keene/images/dataSci2019/riceBowlCloseUp.jpg">
+        <img src="/images/dataSci2019/riceBowl.jpg">
+        <img src="/images/dataSci2019/riceBowlCloseUp.jpg">
    </div>
 </center>
 
@@ -93,16 +93,16 @@ Students: Elvin Hu, Zheng Liu, Raymond Lee, Jessica Martinez,  Michelle Lourduy 
 
 Another group worked with [Everytown for Gun Safety](https://everytown.org/), a non-profit dedicated to ending gun violence and building safer communities. We worked specifically on a dataset they shared with us titled [#NotAnAccident](https://everytownresearch.org/notanaccident/). This dataset attempt tracks all times a gun was discharged accidentally by a minor(17 years an under).
 
-The students did two projects related to this dataset. The first was an interactive lightbox that allowed the viewer to overlay different transparecies over a map of the United states, and to compare different statistics in different states. A picture of all the overlays is below, and the individuals can be found [here]({{site.url}}/~keene/images/dataSci2019/everytownMaps.pdf)
+The students did two projects related to this dataset. The first was an interactive lightbox that allowed the viewer to overlay different transparecies over a map of the United states, and to compare different statistics in different states. A picture of all the overlays is below, and the individuals can be found [here]({{site.url}}/images/dataSci2019/everytownMaps.pdf)
 
-![Overlays]({{site.url}}/~keene/images/dataSci2019/everytownMap.jpg)
+![Overlays]({{site.url}}/images/dataSci2019/everytownMap.jpg)
 
 
 Additionally, this group worked with an open-source dataset of [Reddit](https://www.reddit.com/) comments. We were curious if people commented differently about #NotAnAccident gun incidents compared to school shootings. Specifically the students noticed that although #NotAnAccident incidents happened more often, with more victims, the online commentary was heavily skewed towards discussing school shooting incidents. 
 
-The students created an interactive, time driven visualzation of this, a screenshot of which is below. If you want to interact with the visulization, click [here]({{site.url}}/~keene/images/dataSci2019/Viz 1 Animation.html), just please give it a moment to load.
+The students created an interactive, time driven visualzation of this, a screenshot of which is below. If you want to interact with the visulization, click [here]({{site.url}}/images/dataSci2019/Viz 1 Animation.html), just please give it a moment to load.
 
-![Overlay]({{site.url}}/~keene/images/dataSci2019/everytownScreenShot.png)
+![Overlay]({{site.url}}/images/dataSci2019/everytownScreenShot.png)
 
 Students: Joseph Bentivegna, Zoe Bowhay, Jacob Maarek, Kavya Udupa
 
@@ -113,7 +113,7 @@ Finally, a groups of students a dataset provided to us by the [Center for Employ
 
 At its core, the work is a flowchart, that walks the viewer through the challenges one experiences while reintegrating into society after being incarcerated. The layout of this forces the viewer into uncomfortable, difficult positions, where they must squat, or strain in order to navigate the various obstacles.
 
-<link rel="stylesheet" href="/~keene/assets/css/colorbox.css" />
+<link rel="stylesheet" href="/assets/css/colorbox.css" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
 
@@ -121,11 +121,11 @@ At its core, the work is a flowchart, that walks the viewer through the challeng
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="122" id="box5">
-        <img src="/~keene/images/intersis/P1022285.jpg">
-        <img src="/~keene/images/intersis/P1022341.jpg">
-        <img src="/~keene/images/intersis/P1022359.jpg">
-        <img src="/~keene/images/intersis/P1022360.jpg">
-        <img src="/~keene/images/intersis/P1022567.jpg">
+        <img src="/images/intersis/P1022285.jpg">
+        <img src="/images/intersis/P1022341.jpg">
+        <img src="/images/intersis/P1022359.jpg">
+        <img src="/images/intersis/P1022360.jpg">
+        <img src="/images/intersis/P1022567.jpg">
     </div>
 </center>
 Students: Aden Bailey, Ariana Freitag, Sophie Schneider
@@ -134,12 +134,12 @@ Students: Aden Bailey, Ariana Freitag, Sophie Schneider
 
 
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
-<script src="/~keene/assets/js/jquery.colorbox.js"></script>
+<script src="/assets/js/jquery.colorbox.js"></script>
 
 <script type="text/javascript">
 $('.photoset-grid-lightbox').photosetGrid({

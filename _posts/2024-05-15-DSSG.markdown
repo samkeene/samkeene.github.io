@@ -3,15 +3,15 @@ layout: post
 title:  "Data Science for Social Good, Spring 2024"
 date:   2024-05-15 03:32:51 -0500
 categories: jekyll update
-#thumbnail: "/~keene/images/dataSci2023/circularityCrit1.jpg"
+#thumbnail: "/images/dataSci2023/circularityCrit1.jpg"
 ---
 We opended our annual data science for social good exhibition today. Once again we partnered with several non profits and performed data visualization and analysis. Have a look below for descriptions of the projects and some pictures of the installation.
 
 [The National Black Womans Justice Institute](https://www.nbwji.org/)  mission is to research, elevate, and educate the public about innovative, community-led solutions to address the criminalization of Black women and girls. We partnered with them to do an analysis on the distance between incarcerated women in NYC and their home communities.
 
-![](/~keene/images/dataSci2024/nbwji1.jpg)
+![](/images/dataSci2024/nbwji1.jpg)
 
-![](/~keene/images/dataSci2024/nbwji2.jpg)
+![](/images/dataSci2024/nbwji2.jpg)
 
 
 
@@ -20,7 +20,7 @@ We opended our annual data science for social good exhibition today. Once again 
  
 
 
-<link rel="stylesheet" href="/~keene/assets/css/colorbox.css" />
+<link rel="stylesheet" href="/assets/css/colorbox.css" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
 
@@ -28,20 +28,20 @@ We opended our annual data science for social good exhibition today. Once again 
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="22" id="box1">
-        <img src="/~keene/images/dataSci2024/ac5.jpg">
-        <img src="/~keene/images/dataSci2024/ac2.jpg">
-        <img src="/~keene/images/dataSci2024/ac3.jpg">
-        <img src="/~keene/images/dataSci2024/ac4.jpg">
+        <img src="/images/dataSci2024/ac5.jpg">
+        <img src="/images/dataSci2024/ac2.jpg">
+        <img src="/images/dataSci2024/ac3.jpg">
+        <img src="/images/dataSci2024/ac4.jpg">
     </div>
 </center>
 
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
 
-<script src="/~keene/assets/js/jquery.photoset-grid.js"></script>
+<script src="/assets/js/jquery.photoset-grid.js"></script>
 
-<script src="/~keene/assets/js/jquery.colorbox.js"></script>
+<script src="/assets/js/jquery.colorbox.js"></script>
 
 <script type="text/javascript">
 $('.photoset-grid-lightbox').photosetGrid({
