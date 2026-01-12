@@ -10,23 +10,23 @@
     <!-- HEADER IMAGE -->
     <center>
         <span class="main-header-image">
-            <a href="/"><img src="/images/header/41coop.jpg"></a>
+            <a href="/"><img src="/images/header/41coop.jpg" alt="Cooper Union Engineering Website Logo"></a>
         </span>
     </center>
 
     <!-- NAVIGATION -->
     <br><br>
     <center>
-        <span class="navigation-bar">
-            <a href="/">HOME</a>
-            <a href="/archives/">ARCHIVE</a>
-         <!--   <a href="/tags/">TAGS</a> -->
+        <div class="navigation-bar">
+           <a href="/">HOME</a>
+            <a href="/archive.html">ARCHIVE</a>
             <a href="/about.html">ABOUT</a>
-          <p>   <a href="/dssg.html">Data Science For Social Good</a>  <!p>
-          <p>   <a href="/brew.html">Cooper Brewing</a>  <!p>
- 
-          <!--  <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a> -->
-        </span>
+           <br>
+            <a href="/dssgOverview.html">Data Science For Social Good</a>  
+           <br>
+            <a href="/brew.html">Cooper Brewing</a>
+            <!-- <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a> -->
+        </div>
     </center> 
 </head>
 
@@ -39,7 +39,7 @@
             
             <!-- MAIN -->
             <h1 class="entry-title">
-                <a>{{ page.title }}</a>
+                {{ page.title }}
             </h1>
               
             <!-- POST CONTENT -->
