@@ -1,8 +1,9 @@
 title:            Keene's Blog
 description:      A blog for all things Keene
        
-
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
 minimal_mistakes_skin: default
 
 future:      false  # publish future dated posts --  true, false (default) 
