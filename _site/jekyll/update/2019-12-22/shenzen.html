@@ -1,12 +1,15 @@
 <!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]-->
-   
-<head>
+<!--
+  Minimal Mistakes Jekyll Theme 4.27.3 by Michael Rose
+  Copyright 2013-2025 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en" class="no-js">
+  <head>
     <meta charset="utf-8">
-<title>Shenzen Biennial &#8211; Keenes Blog</title>
+<title>Shenzen Biennial &#8211; Keene's Blog</title>
 <meta name="description" content="A blog for all things Keene">
 <meta name="keywords" content="">
 
@@ -23,14 +26,14 @@
 <meta property="og:title" content="Shenzen Biennial">
 <meta property="og:description" content="A blog for all things Keene">
 <meta property="og:url" content="/jekyll/update/2019-12-22/shenzen.html">
-<meta property="og:site_name" content="Keenes Blog">
+<meta property="og:site_name" content="Keene's Blog">
 
 
 
 
 
 <link rel="canonical" href="/jekyll/update/2019-12-22/shenzen.html">
-<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Keenes Blog Feed">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Keene's Blog Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -50,165 +53,206 @@
 
 
 
+    <!-- start custom head snippets -->
 
-    <!-- HEADER IMAGE -->
-    <center>
-        <span class="main-header-image">
-            <a href="/"><img src="/images/header/41coop.jpg"></a>
-        </span>
-    </center>
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
 
-    <!-- NAVIGATION -->
-    <br><br>
-    <center>
-        <span class="navigation-bar">
-            <a href="/">HOME</a>
-            <a href="/archives/">ARCHIVE</a>
-         <!--   <a href="/tags/">TAGS</a> -->
-            <a href="/about.html">ABOUT</a>
-          <p>   <a href="/dssg.html">Data Science For Social Good</a>  <!p>
-          <p>   <a href="/brew.html">Cooper Brewing</a>  <!p>
- 
-          <!--  <a href="/feed.xml">RSS</a> -->
-        </span>
-    </center> 
-</head>
+<!-- end custom head snippets -->
 
-<!-- BODY -->
-<body id="post-index">
-    <!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
+  </head>
+
+  <body class="layout--single" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
     
-    <div id="main" role="main">
-        <article class="hentry">
-            
-            <!-- MAIN -->
-            <h1 class="entry-title">
-                <a>Shenzen Biennial</a>
-            </h1>
-              
-            <!-- POST CONTENT -->
-            <div class="entry-content">
-              <!--  <p>The Shenzen Biennial of Urbanism/Architecture opened on Dec 22, 2019, and an exhibit I worked on in conjunction with <a href="http://arandalasch.com/">Ben Aranda</a> and a group of Cooper Union students was an intergral part of the Biennial.</p>
 
-<p>This exhibit was focused on facial recognition, and presenting the notion that this ubiquitous technology, while seemingly unavoidable, only operates due to our consent. Moreover, our exhibit allows a participant to challenge this technology, and simulates methods to ‘attack’ a network and regain their anonymity.</p>
-
-<p>In our piece, a user must first register with the system, explictly granting their consent to be labeled and recognized. We then allow the user to experiment with face paint, sequins and stickers in order to simulate what is known as an adversarial attack. An adversarial attack, in theory, tricks a facial recognition system into not recognizing someone. The goal of this exhibit was to make people aware that we particpate in these systems by choice, and methods exist to opt out, should we choose to use them.</p>
-
-<p>A few images of the prototype we built on campus at The Cooper Union are below, and for some press coverage of the Binenial, have a look <a href="https://worldarchitecture.org/architecture-news/eefpp/the-world-s-most-visited-architecture-biennale-opens-in-shenzhen.html">here.</a></p>
-
-<link rel="stylesheet" href="/assets/css/colorbox.css" />
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-
-<script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
-
-<center>
-    <div class="photoset-grid-lightbox" data-layout="212" id="box3">
-        <img src="/images/shenzen/img1.png" />
-        <img src="/images/shenzen/img2.png" />
-        <img src="/images/shenzen/img3.png" />
-        <img src="/images/shenzen/img4.png" />
-        <img src="/images/shenzen/img5.png" />
-    </div>
-</center>
-
-<script src="/assets/js/jquery.photoset-grid.js"></script>
-
-<script src="/assets/js/jquery.photoset-grid.js"></script>
-
-<script src="/assets/js/jquery.colorbox.js"></script>
-
-<script type="text/javascript">
-$('.photoset-grid-lightbox').photosetGrid({
-  highresLinks: true,
-  rel: 'withhearts-gallery',
-  gutter: '5px',
-
-  onComplete: function(){
-    $('.photoset-grid-lightbox').attr('style', '');
-    $('.photoset-grid-lightbox a').colorbox({
-      photo: true,
-      scalePhotos: true,
-      maxHeight:'100%',
-      maxWidth:'100%'
-    });
-  }
-});
-</script>
-
- -->
-              <p>The Shenzen Biennial of Urbanism/Architecture opened on Dec 22, 2019, and an exhibit I worked on in conjunction with <a href="http://arandalasch.com/">Ben Aranda</a> and a group of Cooper Union students was an intergral part of the Biennial.</p>
-
-<p>This exhibit was focused on facial recognition, and presenting the notion that this ubiquitous technology, while seemingly unavoidable, only operates due to our consent. Moreover, our exhibit allows a participant to challenge this technology, and simulates methods to ‘attack’ a network and regain their anonymity.</p>
-
-<p>In our piece, a user must first register with the system, explictly granting their consent to be labeled and recognized. We then allow the user to experiment with face paint, sequins and stickers in order to simulate what is known as an adversarial attack. An adversarial attack, in theory, tricks a facial recognition system into not recognizing someone. The goal of this exhibit was to make people aware that we particpate in these systems by choice, and methods exist to opt out, should we choose to use them.</p>
-
-<p>A few images of the prototype we built on campus at The Cooper Union are below, and for some press coverage of the Binenial, have a look <a href="https://worldarchitecture.org/architecture-news/eefpp/the-world-s-most-visited-architecture-biennale-opens-in-shenzhen.html">here.</a></p>
-
-<link rel="stylesheet" href="/assets/css/colorbox.css" />
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-
-<script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
-
-<center>
-    <div class="photoset-grid-lightbox" data-layout="212" id="box3">
-        <img src="/images/shenzen/img1.png" />
-        <img src="/images/shenzen/img2.png" />
-        <img src="/images/shenzen/img3.png" />
-        <img src="/images/shenzen/img4.png" />
-        <img src="/images/shenzen/img5.png" />
-    </div>
-</center>
-
-<script src="/assets/js/jquery.photoset-grid.js"></script>
-
-<script src="/assets/js/jquery.photoset-grid.js"></script>
-
-<script src="/assets/js/jquery.colorbox.js"></script>
-
-<script type="text/javascript">
-$('.photoset-grid-lightbox').photosetGrid({
-  highresLinks: true,
-  rel: 'withhearts-gallery',
-  gutter: '5px',
-
-  onComplete: function(){
-    $('.photoset-grid-lightbox').attr('style', '');
-    $('.photoset-grid-lightbox a').colorbox({
-      photo: true,
-      scalePhotos: true,
-      maxHeight:'100%',
-      maxWidth:'100%'
-    });
-  }
-});
-</script>
-
-
-            </div>  
-
-            <!--- DIVIDING LINE -->
-            <hr>
-    
-            <!-- POST TAGS -->
-            <div class="inline-tags">
-                <span>
-                    
-                </span>
-            </div>
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Keene&#39;s Blog
           
-            <br>
-            
-            <!-- POST DATE -->
-            <div class="post-date">
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/"
                 
-            </div>
-        </article>
+                
+              >Home</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/about/"
+                
+                
+              >About</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/Brew/"
+                
+                
+              >Cooper Brue</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
     </div>
-    
-       <!-- GOOGLE ANALYTICS -->
+  </div>
+</div>
+
+
+    <div class="initial-content">
       
+
+
+
+
+
+<div id="main" role="main">
+  
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Shenzen Biennial">
+    <meta itemprop="description" content="The Shenzen Biennial of Urbanism/Architecture opened on Dec 22, 2019, and an exhibit I worked on in conjunction with Ben Aranda and a group of Cooper Union students was an intergral part of the Biennial.">
+    <meta itemprop="datePublished" content="2019-12-22T03:32:51-05:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">
+            <a href="http://localhost:4000/jekyll/update/2019-12-22/shenzen.html" itemprop="url">Shenzen Biennial
+</a>
+          </h1>
+          
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <p>The Shenzen Biennial of Urbanism/Architecture opened on Dec 22, 2019, and an exhibit I worked on in conjunction with <a href="http://arandalasch.com/">Ben Aranda</a> and a group of Cooper Union students was an intergral part of the Biennial.</p>
+
+<p>This exhibit was focused on facial recognition, and presenting the notion that this ubiquitous technology, while seemingly unavoidable, only operates due to our consent. Moreover, our exhibit allows a participant to challenge this technology, and simulates methods to ‘attack’ a network and regain their anonymity.</p>
+
+<p>In our piece, a user must first register with the system, explictly granting their consent to be labeled and recognized. We then allow the user to experiment with face paint, sequins and stickers in order to simulate what is known as an adversarial attack. An adversarial attack, in theory, tricks a facial recognition system into not recognizing someone. The goal of this exhibit was to make people aware that we particpate in these systems by choice, and methods exist to opt out, should we choose to use them.</p>
+
+<p>A few images of the prototype we built on campus at The Cooper Union are below, and for some press coverage of the Binenial, have a look <a href="https://worldarchitecture.org/architecture-news/eefpp/the-world-s-most-visited-architecture-biennale-opens-in-shenzhen.html">here.</a></p>
+
+<link rel="stylesheet" href="/assets/css/colorbox.css" />
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+<script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
+
+<center>
+    <div class="photoset-grid-lightbox" data-layout="212" id="box3">
+        <img src="/images/shenzen/img1.png" />
+        <img src="/images/shenzen/img2.png" />
+        <img src="/images/shenzen/img3.png" />
+        <img src="/images/shenzen/img4.png" />
+        <img src="/images/shenzen/img5.png" />
+    </div>
+</center>
+
+<script src="/assets/js/jquery.photoset-grid.js"></script>
+
+<script src="/assets/js/jquery.photoset-grid.js"></script>
+
+<script src="/assets/js/jquery.colorbox.js"></script>
+
+<script type="text/javascript">
+$('.photoset-grid-lightbox').photosetGrid({
+  highresLinks: true,
+  rel: 'withhearts-gallery',
+  gutter: '5px',
+
+  onComplete: function(){
+    $('.photoset-grid-lightbox').attr('style', '');
+    $('.photoset-grid-lightbox a').colorbox({
+      photo: true,
+      scalePhotos: true,
+      maxHeight:'100%',
+      maxWidth:'100%'
+    });
+  }
+});
+</script>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2019-12-22T03:32:51-05:00">December 22, 2019</time></p>
+
+      </footer>
+
+      
+
+      
+  <nav class="pagination">
+    
+      <a href="/jekyll/update/2019-12-12/conscience.html" class="pagination--pager" title="Engineering With a Conscience">Previous</a>
+    
+    
+      <a href="/jekyll/update/2020-05-12/genML.html" class="pagination--pager" title="Generative Machine Learing for Architecture">Next</a>
+    
+  </nav>
+
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+      
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <span>
+    &copy; 2026 Keene.<br>Powered by <a target="_blank" href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a target="_blank" href="https://github.com/nathanrooy/Clean-and-Simple-Jekyll-Theme">Clean+Simple</a> theme.
+</span>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-120519966-1"></script>
 <script>
@@ -218,19 +262,10 @@ $('.photoset-grid-lightbox').photosetGrid({
 
   gtag('config', 'UA-120519966-1');
 </script>
-     
 
-</body>
-    
-<!-- FOOTER -->  
-<footer>  
-    <div class="footer-wrapper">
-        <footer role="contentinfo">
-            <span>
-    &copy; 2026 Keene.<br>Powered by <a target="_blank" href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a target="_blank" href="https://github.com/nathanrooy/Clean-and-Simple-Jekyll-Theme">Clean+Simple</a> theme.
-</span>
 
-        </footer>
-    </div>   
-</footer>  
+
+
+
+  </body>
 </html>

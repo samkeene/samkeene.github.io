@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Is your car overpriced?"
 date:   2016-12-22 13:32:51 -0500
 categories: jekyll update

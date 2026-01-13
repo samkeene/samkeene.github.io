@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Shenzen Biennial"
 date:   2019-12-22 03:32:51 -0500
 categories: jekyll update

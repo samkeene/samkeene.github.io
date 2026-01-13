@@ -1,23 +1,27 @@
-title:            Keenes Blog
+title:            Keene's Blog
 description:      A blog for all things Keene
        
+
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: default
 
 future:      false  # publish future dated posts --  true, false (default) 
 highlighter: rouge
 markdown:    kramdown
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
-  
+  - jekyll-include-cache
+
 baseurl: ""
 url: "https://samkeene.github.io"
 
 
-sass:
-  sass_dir: _sass
-  style: compressed
+# sass:
+#   sass_dir: _sass
+#   style: compressed
 
 permalink: /:categories/:year-:month-:day/:title.html
 

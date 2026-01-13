@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Detecting Solar Panels and Estimating their Capacity"
 date:   2017-4-17 13:32:51 -0500
 categories: jekyll update

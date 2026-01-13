@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Exploring causal effects of ad campaigns during the Superbowl"
 date:   2017-4-21 03:32:51 -0500
 categories: jekyll update

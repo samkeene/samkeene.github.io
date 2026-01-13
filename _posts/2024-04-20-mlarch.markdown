@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Workshop on Generative Machine Learning for Architecture and Art, Spring 2024"
 date:   2024-04-20 03:32:51 -0500
 categories: jekyll update

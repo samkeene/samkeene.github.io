@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Generative Machine Learning for Architecture, Spring 2021"
 date:   2021-05-15 03:32:51 -0500
 categories: jekyll update

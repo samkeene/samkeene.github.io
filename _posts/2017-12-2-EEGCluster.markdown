@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "A step towards a cohort retrieval system for EEG records"
 date:   2017-12-2 03:32:51 -0500
 categories: jekyll update

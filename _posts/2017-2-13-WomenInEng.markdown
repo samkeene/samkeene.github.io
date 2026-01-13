@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Closing the gender gap at Cooper Union"
 date:   2017-2-13 13:32:51 -0500
 categories: jekyll update

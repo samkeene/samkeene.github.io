@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Interstice"
 date:   2019-4-23 03:32:51 -0500
 categories: jekyll update

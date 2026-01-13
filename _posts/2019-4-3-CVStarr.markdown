@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "CV Starr Distinguished Research Professor"
 date:   2019-4-3 03:32:51 -0500
 categories: jekyll update

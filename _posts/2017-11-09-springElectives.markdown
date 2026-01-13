@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Two New Interdisciplinary Electives for Spring 2018"
 date:   2017-11-9 03:32:51 -0500
 categories: jekyll update

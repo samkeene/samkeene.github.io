@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Data Science Projects for Social Good"
 date:   2019-5-28 03:32:51 -0500
 categories: jekyll update

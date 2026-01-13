@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Ongoing work on deep autoencoders for audio synthesis, effects, and mixing"
 date:   2020-10-20 03:32:51 -0500
 categories: jekyll update

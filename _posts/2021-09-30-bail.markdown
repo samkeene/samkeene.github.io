@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Understanding the Bailable Population in Mississippi"
 date:   2021-09-30 03:32:51 -0500
 categories: jekyll update

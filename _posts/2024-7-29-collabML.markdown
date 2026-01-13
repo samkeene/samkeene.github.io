@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Generative Algorithms for Art and Architecture: A Collaborative Teaching Approach"
 date:   2024-07-29 03:32:51 -0500
 categories: jekyll update

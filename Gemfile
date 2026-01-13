@@ -5,6 +5,8 @@ gem 'liquid', '~> 4.0'
 gem 'kramdown', '~> 2.4'
 gem 'kramdown-parser-gfm'
 gem "jekyll-sass-converter", "~> 2.0"
+gem "minimal-mistakes-jekyll"
+gem "jekyll-include-cache"
 
 # The Ruby 4.0 Survival Kit
 gem "webrick"

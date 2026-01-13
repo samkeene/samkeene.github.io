@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Collaborating in New Spaces"
 date:   2018-9-24 03:32:51 -0500
 categories: jekyll update

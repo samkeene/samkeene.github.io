@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Autoencoding Neural Networks as Musical Audio Synthesizers"
 date:   2018-9-4 03:32:51 -0500
 categories: jekyll update

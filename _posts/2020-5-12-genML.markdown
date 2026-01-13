@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Generative Machine Learing for Architecture"
 date:   2020-5-12 03:32:51 -0500
 categories: jekyll update

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Discovering hidden topics in Tweets"
 date:   2016-12-23 13:32:51 -0500
 categories: jekyll update

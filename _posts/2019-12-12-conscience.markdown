@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Engineering With a Conscience"
 date:   2019-12-12 03:32:51 -0500
 categories: jekyll update
