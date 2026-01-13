@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# Jekyll temporary files
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby/Gem files
+.bundle/
+vendor/
