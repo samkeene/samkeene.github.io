@@ -9,3 +9,7 @@ _site/
 # Ruby/Gem files
 .bundle/
 vendor/
+
+_site/
+.jekyll-cache/
+.DS_Store
