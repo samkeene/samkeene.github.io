@@ -1,7 +1,7 @@
 title:            Keene's Blog
 description:      A blog for all things Keene
        
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes
 
 minimal_mistakes_skin: default
