@@ -3,7 +3,8 @@ layout: single
 title:  "Workshop on Generative Machine Learning for Architecture and Art, Spring 2023"
 date:   2023-04-22 03:32:51 -0500
 categories: jekyll update
-thumbnail: "/images/mlArch23/genMLFlyer.png"
+header:
+  teaser: "/images/mlArch23/genMLFlyer.png"
 ---
 
 Along with my colleague Ben Aranda, we hosted our inaugural Workshop on Generative Art, Architecture & Engineering Collaboration. Leading practitioners in the field of generative art, design and machine learning presented their work and engaged in a discussion led by students. This workshop was an extension a multi-year effort to explore generative algorithms and Machine Learning at Cooper Union through a series of interdisciplinary seminars and studios, where students from the art, architecture and engineering schools work together. 

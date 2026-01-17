@@ -1,6 +1,8 @@
 ---
-layout: post-index
-title: Archive
+layout: archive
+title: "Blog Posts"
+permalink: /archive/
+entries_layout: grid
 ---
 
 <div class="archive">

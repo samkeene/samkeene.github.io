@@ -3,7 +3,8 @@ layout: single
 title:  "Data Science for Social Good, Spring 2022"
 date:   2022-05-12 03:32:51 -0500
 categories: jekyll update
-thumbnail: "/images/datasci2022/20220513_154047.jpg"
+header:
+  teaser: "/images/datasci2022/20220513_154047.jpg"
 ---
 We opended our annual data science for social good exhibition today, in person again after a year off. Once again we partnered with several non profits and performed data visualization and analysis. Have a look below for descriptions of the projects and some pictures of the installation.
 

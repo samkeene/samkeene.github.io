@@ -3,8 +3,8 @@ layout: single
 title:  "Data Science and Design Projects for Social Good, Spring 2019"
 date:   2019-5-28 03:32:51 -0500
 categories: jekyll update
-thumbnail: "/images/dataSci2019/riceBowlCloseUp.jpg"
-
+header:
+  teaser: "/images/dataSci2019/riceBowlCloseUp.jpg"
 ---
 
 In the spring semester of 2019, [Taylor Woods](https://www.taylorwoods.me/) and I co-taught this years iteration of Data Science and Design Projects for Social Good. 

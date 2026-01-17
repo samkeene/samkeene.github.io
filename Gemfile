@@ -1,11 +1,13 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.3'
+gem "jekyll", "~> 4.4.1"
+gem "minimal-mistakes-jekyll"
+gem "jekyll-remote-theme" # Crucial for GitHub Pages compatibility
+
 gem 'liquid', '~> 4.0'
 gem 'kramdown', '~> 2.4'
 gem 'kramdown-parser-gfm'
 gem "jekyll-sass-converter", "~> 2.0"
-gem "minimal-mistakes-jekyll"
 gem "jekyll-include-cache"
 
 # The Ruby 4.0 Survival Kit

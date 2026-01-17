@@ -3,6 +3,7 @@ layout: single
 title:  "Computer Science at The Cooper Union"
 date:   2024-08-19 03:32:51 -0500
 categories: jekyll update
+
 ---
 
 In exciting news, I have been named Inagural Chair of a new [Computer Science](https://cooper.edu/engineering/news/prof-sam-keene-lead-new-computer-science-department) program at The Cooper Union!

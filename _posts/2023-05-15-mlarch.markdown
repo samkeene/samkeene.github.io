@@ -3,7 +3,8 @@ layout: single
 title:  "Generative Machine Learning for Architecture, Spring 2022"
 date:   2022-05-15 03:32:51 -0500
 categories: jekyll update
-thumbnail: "/images/mlarch22/gasket2.jpg"
+header:
+  teaser: "/images/mlarch22/gasket2.jpg"
 ---
 We concluded our final reviews for Generative Machine Learning for Architecture in the Houghton gallery. Check out the images and videos below.
 

@@ -1,0 +1,20 @@
+.archive .grid__item {
+  @include breakpoint($small) {
+    width: span(6 of 12);
+    &:nth-child(2n) {
+      margin-right: 0;
+    }
+  }
+  @include breakpoint($medium) {
+    width: span(6 of 12);
+    &:nth-child(2n) {
+      margin-right: 0;
+    }
+  }
+  @include breakpoint($large) {
+    width: span(6 of 12);
+    &:nth-child(2n) {
+      margin-right: 0;
+    }
+  }
+}

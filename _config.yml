@@ -1,15 +1,16 @@
 title:            Keene's Blog
 description:      A blog for all things Keene
        
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-remote-theme
-minimal_mistakes_skin: default
+theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
+minimal_mistakes_skin: default
+teaser: true
 future:      false  # publish future dated posts --  true, false (default) 
 highlighter: rouge
 markdown:    kramdown
 plugins:
+  - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-gist
@@ -37,6 +38,16 @@ paginate: 5
 #  toc_levels: 1..6
 #  enable_coderay: false
 
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: true
+      share: true
+      related: true
+
 include: 
   - .htaccess
   
@@ -63,3 +74,4 @@ exclude:
   - package.json
   - spec
   - tmp
+  

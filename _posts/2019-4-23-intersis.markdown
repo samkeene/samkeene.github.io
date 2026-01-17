@@ -3,8 +3,8 @@ layout: single
 title:  "Interstice"
 date:   2019-4-23 03:32:51 -0500
 categories: jekyll update
-thumbnail: "/images/intersis/P1022285.jpg"
-
+header:
+  teaser: "/images/intersis/P1022285.jpg"
 ---
 
 Graduating art student Aden Bailey held her senior show, Interstice, on April 23rd. As part of this show, Aden curated many pieces that students have done in a couple of my interdisciplinary courses this year. Below are some pieces from the [Data Science and Design Projects for Social Good]({{site.url}}/images/intersis/Syllabus_DataScience&DesignForSocialGood_2019.pdf) course, (co-intructor [Taylor Woods](https://www.taylorwoods.me/)), and the [Generative Machine Learning for Architecture](https://docs.google.com/document/d/1aRgETbX_IjhJSH7hlOZwHqhf1osZfUHpRg391f7JBbQ/edit?usp=sharing) course (co-instructor [Ben Aranda](http://arandalasch.com/work/featured/)). 

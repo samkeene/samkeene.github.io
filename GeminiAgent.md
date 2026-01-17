@@ -42,6 +42,31 @@ Follow the [Conventional Commits](https://www.conventionalcommits.org/) specific
 3.  **Push:** Push changes to the `main` branch after verifying the build.
 
 ## 5. Interaction Guidelines
+
 - Check `_config.yml` to understand site-wide variables and plugin requirements.
+
+- **Exclusion:** Ensure `GEMINI.md` is added to the `exclude` list in `_config.yml` to prevent it from being built into the static site.
+
 - Ensure all dependencies are handled via `Bundler` (`Gemfile`).
 
+
+
+## 6. Environment & Dependency Management
+
+
+
+### Ruby Version
+
+- Use a `.ruby-version` file to specify the required Ruby version for the project.
+
+- While `Bundler` can enforce a version in the `Gemfile`, a version manager (like `rbenv` or `rvm`) is needed to switch Ruby versions.
+
+
+
+### Bundler (Gemfile)
+
+- Always use `bundle exec` before Jekyll commands to ensure the project-specific gem versions are used.
+
+- Run `bundle install` after modifying the `Gemfile`.
+
+- Commit the `Gemfile.lock` to ensure environment parity across different machines.

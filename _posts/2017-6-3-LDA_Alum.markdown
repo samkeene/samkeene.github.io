@@ -3,7 +3,8 @@ layout: single
 title:  "Projections"
 date:   2017-6-3 03:32:51 -0500
 categories: jekyll update
-thumbnail: "/images/stairs.jpg"
+header:
+  teaser: "/images/stairs.jpg"
 
 ---
 

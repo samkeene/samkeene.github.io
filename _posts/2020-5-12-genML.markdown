@@ -3,7 +3,8 @@ layout: single
 title:  "Generative Machine Learing for Architecture"
 date:   2020-5-12 03:32:51 -0500
 categories: jekyll update
-thumbnail: "/images/HighresScreenshot00002.png"
+header:
+  teaser: "/images/HighresScreenshot00002.png"
 ---
 
 We held our final review for a new course, [Generative Machine Learning for Architecture](https://docs.google.com/document/d/1o5_gQN5ByytWSoe67LLAIaFzEG86ReY_MXBjZDpCF_w/edit?usp=sharing) (co-instructor [Ben Aranda](http://arandalasch.com/work/featured/)). This was a new experiment at Cooper where we embedded a small group of engineering students into the architecture studio. Although the semester was quite disrupted by COVID-19, we are still really impressed with the output of this course.

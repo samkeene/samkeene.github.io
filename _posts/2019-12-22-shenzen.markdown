@@ -3,8 +3,8 @@ layout: single
 title:  "Shenzen Biennial"
 date:   2019-12-22 03:32:51 -0500
 categories: jekyll update
-thumbnail: "/images/shenzen/img1.png"
-
+header:
+  teaser: "/images/shenzen/img1.png"
 ---
 The Shenzen Biennial of Urbanism/Architecture opened on Dec 22, 2019, and an exhibit I worked on in conjunction with [Ben Aranda](http://arandalasch.com/) and a group of Cooper Union students was an intergral part of the Biennial.
 
