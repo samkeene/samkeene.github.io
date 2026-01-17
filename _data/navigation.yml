@@ -3,6 +3,6 @@ main:
   - title: "Home"
     url: /
   - title: "About"
-    url: /about/
-  - title: "Cooper Brue"
-    url: /Brew/
+    url: /about.html
+  - title: "Cooper Brew"
+    url: /brew.html
