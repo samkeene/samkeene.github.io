@@ -15,7 +15,7 @@ Our purpose was to educate Cooper Union students to solve real world, data-orien
 We partnered with six non-profits based in the NYC area, and formed seven groups of students. Each group had representation from all three schools. Over the course of the semester, the teams performed an exploratory data analysis, proposed avenues of inquiry, and reported their results in the form of reports, presentations, visualization and interactive exhibits. In-class critiques were held and members of from a wide range of industries such as architecture, business consulting, graphic design and software engineering were invited. 
 
 
-The projects spanned topics such as [food insecurity](dspFoodInsec2018.html), [recidivism](dspRecid2018.html), [eviction prevention](dspEvic2018.html), [access to services](dspAccess2018.html), [hate speech](dspHate2018.html), and [how charities talk about themselves](dspCN2018.html).
+The projects spanned topics such as [food insecurity](/dspFoodInsec2018.html), [recidivism](/dspRecid2018.html), [eviction prevention](/dspEvic2018.html), [access to services](/dspAccess2018.html), [hate speech](/dspHate2018.html), and [how charities talk about themselves](/dspCN2018.html).
 
 The semester concluded with a final review that consisted of 7 short presentations, followed by an exhibition session. The resulting work was also put on display at the [End of Year Show](https://cooper.edu/events-and-exhibitions/exhibitions/2018-student-exhibition). For this exhibition, we used room 101 of 41 Cooper Square, and took advantage of the floor-to-ceiling windows facing 7th street. We designed much of our work so that it would face outwards towards New York City, as well as inwards into the classroom.
 
