@@ -4,7 +4,7 @@ title:  "Generative Machine Learning for Architecture, Spring 2025"
 date:   2025-05-15 03:32:51 -0500
 categories: jekyll update
 header:
-  teaser: "/images/mlarch25/mlArchGreatHall.png"
+  teaser: "/images/mlArch25/mlArchGreatHall.png"
 ---
 
 We held an exciting event in the Great Hall, hosting two incredible speakers, Mario Klingemann and Casey Reas, in a discussion around generative arts, moderated by Christiane Paul. You can see the talk [here](https://vimeo.com/1079926463), the password is generative
@@ -17,9 +17,9 @@ As always, we exhibited some of our great student work, some pictures below.
 
 <center>
     <div class="photoset-grid-lightbox" data-layout="122">
-        <img src="/images/mlarch25/mlArch1.png">
-        <img src="/images/mlarch25/mlArch2.png">
-        <img src="/images/mlarch25/mlArch3.png">
+        <img src="/images/mlArch25/mlArch1.png">
+        <img src="/images/mlArch25/mlArch2.png">
+        <img src="/images/mlArch25/mlArch3.png">
     </div>
 </center>
 
