@@ -1,0 +1,60 @@
+---
+layout: single
+title: "Tracing the City"
+date:   2026-3-24 03:32:51 -0500
+
+header:
+  teaser: "/images/tracing/OPENDATA_1130x636.png"
+---
+
+Tracing the City features student work our The Cooper Union’s interdisciplinary course, Data Science for Social Good that I'm teaching this year with Tandis Shoushtary A'20. This course pairs engineering, art, and architecture students with New York City nonprofits to help address real-world challenges together. Cooper students help these organizations explore open datasets drawn from NYC Open Data sources, communicate findings visually, and propose data-informed interventions. Projects often highlight disparities in health outcomes, environmental conditions, educational access, and justice-system involvement across different city neighborhoods. 
+
+For Tracing the City, collaborations with nonprofits such as Bee U, which works in beekeeping education, youth leadership, and environmental advocacy, and Civic Health Alliance, which focuses on civic participation, voter access, and mobilizing healthcare professionals, investigate how open data can support youth empowerment, community health, tenancy protections, and corporate wage theft. The exhibition is presented around New York City’s Open Data Week 2026 and also includes selected projects from previous years of Data Science for Social Good.
+
+
+<link rel="stylesheet" href="/assets/css/colorbox.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
+
+<center>
+    <div class="photoset-grid-lightbox" data-layout="212">
+        <img src="/images/tracing/Tracing1.jpg">
+        <img src="/images/tracing/Tracing2.jpg">
+        <img src="/images/tracing/Tracing3.jpg">
+        <img src="/images/tracing/Tracing4.jpg">
+        <img src="/images/tracing/Tracing5.jpg">
+
+    </div>
+</center>
+
+
+
+
+
+<script src="/assets/js/jquery.photoset-grid.js"></script>
+
+
+<script src="/assets/js/jquery.photoset-grid.js"></script>
+
+<script src="/assets/js/jquery.colorbox.js"></script>
+
+<script type="text/javascript">
+$('.photoset-grid-lightbox').photosetGrid({
+  highresLinks: true,
+  rel: 'withhearts-gallery',
+  gutter: '5px',
+
+  onComplete: function(){
+    $('.photoset-grid-lightbox').attr('style', '');
+    $('.photoset-grid-lightbox a').colorbox({
+      photo: true,
+      scalePhotos: true,
+      maxHeight:'90%',
+      maxWidth:'90%'
+    });
+  }
+});
+</script>
+
+
+

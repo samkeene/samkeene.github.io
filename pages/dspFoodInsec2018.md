@@ -29,7 +29,7 @@ A gallery of illustrating these food islands is shown below, an interactive visu
 
 Nicolas Gao,(BSE '18) Ross Kaplan(EE '18), Anushree Shreedhar(chemE '19) and Zhenni Zhu(Arch '19) also investigated this data set. They illustrated the difference food insecurity across different neighborhoods, and developed predictive models that could potentially be used to help inform City Harvest and Feed NYC about how many people might be served if a food source were to be opened at a particular location.
 
-Some of their visualizations are in the gallery below, and their final report is [here]({{ site.url }}/assets/City_Harvest_Group_2_Report.pdf).
+Some of their visualizations are in the gallery below, and their final report is [here](https://ee.cooper.edu/~keene/assets/City_Harvest_Group_2_Report.pdf).
 
 ## Gallery
 <link rel="stylesheet" href="/assets/css/colorbox.css" />

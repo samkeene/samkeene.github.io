@@ -1,0 +1,21 @@
+---
+layout: single
+title: "Tracing the City"
+date:   2026-3-24 03:32:51 -0500
+
+header:
+  teaser: "/images/tracing/OPENDATA_1130x636.png"
+---
+
+
+
+<center>
+    <div class="photoset-grid-lightbox" data-layout="122">
+        <img src="/images/tracing/Tracing1.png">
+        <img src="/images/tracing/Tracing2.png">
+        <img src="/images/tracing/Tracing3.png">
+        <img src="/images/tracing/Tracing4.png">
+        <img src="/images/tracing/Tracing5.png">
+
+    </div>
+</center>

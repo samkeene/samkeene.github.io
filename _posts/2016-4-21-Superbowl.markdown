@@ -27,7 +27,7 @@ There was only one small problem left - Google and Twitters APIs did not allow c
 
 The causal impact model works by tracking time series data (for example, # of hourly google searches), both before and after the event (for example the start of a marketing campaign). In order to develop a control, the model needs other, untreated markets to compare agaist. By using the time series data of both the treated and untreated markets, we can attempt to infer the causal impact. If there is a significant diverence in the response (the # of google seaches) in the treated market, then we can infer that the treatment (the marketing campaign), caused the response.
 
-The above description is a gross over simplification, and the model Neema used is a full Bayesian treatment of this topic, and for more detail, refer to Neema's [thesis.]({{ site.url }}/assets/Neema_Thesis_vFinal.pdf)
+The above description is a gross over simplification, and the model Neema used is a full Bayesian treatment of this topic, and for more detail, refer to Neema's [thesis.](https://ee.cooper.edu/~keene/assets/Neema_Thesis_vFinal.pdf)
 
 Now, for the results, which marketing campaigns resulted in significant buzz, and which fell flat?
 

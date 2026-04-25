@@ -12,7 +12,7 @@ The student team examined two things related to this dataset. First, they tried 
 
 The other aspect examined was to overlay the locations of grant awardees with a dataset of [bad landlords](https://advocate.nyc.gov/landlord-watchlist/worst-landlords), as provided by the NYC public advocate. By comparign these locations, there are some obvious areas of overlap as would be expected. Neighborhoods with many 'bad landlords' in general seem to have a higher amount of people at risk of eviction. However, there were some neighborhoods, with a high amount of 'bad landlords', that currently do not have a high amount of evictions. Further investigation will study what is different about these neighborhoods, and perhaps an intervention strategy can be developed to prevent future evictions in those areas.
 
-See the gallery below for some of their visualizations, and pdf versions of the maps are [here]({{ site.url }}/assets/DC_CFH_AmountCases_01.pdf) and [here]({{ site.url }}/assets/DC_CFH_LandlordFollowup_02.pdf). To read more details, have a look at their [final report](https://docs.google.com/document/d/1wKUZoMTeDdwQj50NUd_zV2UrE_ZsMljG6Fpsd1-L-jw/edit?usp=sharing)
+See the gallery below for some of their visualizations, and pdf versions of the maps are [here](https://ee.cooper.edu/~keene/assets/DC_CFH_AmountCases_01.pdf) and [here](https://ee.cooper.edu/~keene/assets/DC_CFH_LandlordFollowup_02.pdf). To read more details, have a look at their [final report](https://docs.google.com/document/d/1wKUZoMTeDdwQj50NUd_zV2UrE_ZsMljG6Fpsd1-L-jw/edit?usp=sharing)
 
 ## Gallery
 
