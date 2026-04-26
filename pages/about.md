@@ -3,12 +3,10 @@ layout: single
 title: "About"
 permalink: about.html
 ---
+ 
+I am a professor at [The Cooper Union](http://www.cooper.edu) and innaugural chair of the new computer science department. Prior to coming to Cooper, I got a Ph.D in electrical engineering studying wireless communications at Boston Univeristy, and I also spent a bunch of time as a software engineering at The Mathworks, Inc.
 
-I am a professor of [electrical engineering](http://www.ee.cooper.edu) at [The Cooper Union](http://www.cooper.edu)
-
-I teach courses and advise students in the area of signal processing, wireless communications and networks, machine learning and data science.
-
-This website is meant to highlight all the great things Cooper students are doing under my supervision in these areas.
+I teach all kinds of classes at The Cooper Union, ranging from intro coding to graduate level machine learning. I do research broadly focused around signal processing and machine learning, with applications mostly in healthcare and environmental monitoring, I also do lots of interdisciplinary collaborations with the schools of Architecture and Art, with a focus on teaching students how work collaboratively to make cool stuff. Some classes focus on interactive work using AI and machine learning for creative applications, others are focused on working with non-profits on data visualization and analysis. I also run a secret brewery in one of my labs.
 
 My [Google Scholar profile](https://scholar.google.com/citations?user=xFidvlMAAAAJ&hl=en) 
 
